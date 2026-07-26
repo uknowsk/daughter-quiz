@@ -1,6 +1,8 @@
 import { getValidAccessToken } from "../../../lib/store";
 import { sendToMe } from "../../../lib/kakao";
 import { STUDENTS } from "../../../lib/users";
+import { SUBJECT_LIST } from "../../../lib/curriculum";
+import { getOrCreateDailySet } from "../../../lib/daily";
 
 // 매일 정해진 시간에 Vercel Cron이 호출 → 등록된 모든 학생에게 오늘의 학습 링크 발송
 export default async function handler(req, res) {
@@ -20,6 +22,15 @@ export default async function handler(req, res) {
 
   const results = [];
   for (const s of STUDENTS) {
+    // 발송 전에 오늘의 문제 미리 생성해 캐시 (링크 열 때 빠르게)
+    for (const subject of SUBJECT_LIST) {
+      try {
+        await getOrCreateDailySet(s, subject);
+      } catch (e) {
+        console.error(`세트 생성 실패 (${s.id}/${subject}):`, e.message);
+      }
+    }
+
     const token = await getValidAccessToken(s.id);
     if (!token) {
       results.push({ student: s.id, sent: false, reason: "미로그인" });

@@ -56,6 +56,11 @@ export default function WrongNotes({ userId, student, notes }) {
                 {"  "}·{"  "}
                 <span style={{ color: "#2a7" }}>정답: <b>{n.answer}</b></span>
               </p>
+              {(n.explain || n.conceptTitle) && (
+                <p style={{ margin: "6px 0 0", fontSize: 13, color: "#555", background: "#fff8e6", padding: "6px 8px", borderRadius: 6 }}>
+                  💡 {n.explain ? n.explain : `관련 개념: ${n.conceptTitle} — 문제 페이지 위쪽 개념 설명을 다시 확인해보세요.`}
+                </p>
+              )}
             </div>
           ))}
         </div>

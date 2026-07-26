@@ -1,22 +1,23 @@
 import { useState } from "react";
-import { getSubjectData, SUBJECT_LIST } from "../lib/curriculum";
+import { SUBJECT_LIST } from "../lib/curriculum";
 import { getStudent, STUDENTS } from "../lib/users";
-import { getProgress } from "../lib/store";
+import { getOrCreateDailySet } from "../lib/daily";
 
 export async function getServerSideProps({ query }) {
   const userId = query.user || (STUDENTS[0] && STUDENTS[0].id) || null;
   const student = userId ? getStudent(userId) : null;
 
   if (!student) {
-    return { props: { student: null, userId, bundle: null, progress: null } };
+    return { props: { student: null, userId, bundle: null } };
   }
 
-  const progress = await getProgress(userId);
+  // 과목별 오늘의 세트 준비 (AI 생성 or 정적 폴백, 캐시 사용)
   const bundle = {};
   for (const s of SUBJECT_LIST) {
-    bundle[s] = getSubjectData(student.grade, s);
+    const set = await getOrCreateDailySet(student, s);
+    bundle[s] = { concept: set.concept, level: set.level, questions: set.questions, source: set.source, unit: set.unit };
   }
-  return { props: { student, userId, bundle, progress } };
+  return { props: { student, userId, bundle } };
 }
 
 function Svg({ svg }) {
@@ -29,7 +30,7 @@ function Svg({ svg }) {
   );
 }
 
-export default function Home({ student, userId, bundle, progress }) {
+export default function Home({ student, userId, bundle }) {
   const [subject, setSubject] = useState("수학");
   const [answers, setAnswers] = useState({});
   const [result, setResult] = useState(null);
@@ -45,9 +46,9 @@ export default function Home({ student, userId, bundle, progress }) {
     );
   }
 
-  const level = progress[subject]?.level || "중";
   const data = bundle[subject];
-  const questions = (data && data.levels[level]) || [];
+  const level = data.level;
+  const questions = data.questions || [];
 
   function setAnswer(qid, value) {
     setAnswers((prev) => ({ ...prev, [qid]: value }));
@@ -57,10 +58,11 @@ export default function Home({ student, userId, bundle, progress }) {
     setLoading(true);
     setResult(null);
     try {
+      const questionIds = questions.map((q) => q.id);
       const res = await fetch("/api/submit", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ userId, subject, level, answers }),
+        body: JSON.stringify({ userId, subject, level, answers, questionIds }),
       });
       const json = await res.json();
       setResult(json);
@@ -102,6 +104,17 @@ export default function Home({ student, userId, bundle, progress }) {
       </div>
 
       <div style={{ background: "#f6f6f6", padding: 16, borderRadius: 10, marginBottom: 24 }}>
+        <div style={{ marginBottom: 6 }}>
+          {data.source === "ai" ? (
+            <span style={{ fontSize: 12, background: "#e7f0ff", color: "#1e5bd6", padding: "3px 8px", borderRadius: 12 }}>
+              ✨ AI가 오늘 만든 문제{data.unit ? ` · 단원: ${data.unit}` : ""}
+            </span>
+          ) : (
+            <span style={{ fontSize: 12, background: "#eee", color: "#666", padding: "3px 8px", borderRadius: 12 }}>
+              📚 문제은행 문제
+            </span>
+          )}
+        </div>
         <h3>{data.concept.title}</h3>
         <Svg svg={data.concept.image} />
         <p style={{ whiteSpace: "pre-line", lineHeight: 1.6 }}>{data.concept.body}</p>

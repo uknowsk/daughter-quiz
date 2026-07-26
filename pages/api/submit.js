@@ -1,5 +1,5 @@
-import { getSubjectData } from "../../lib/curriculum";
 import { getStudent } from "../../lib/users";
+import { getOrCreateDailySet } from "../../lib/daily";
 import {
   getValidAccessToken,
   saveProgress,
@@ -20,26 +20,28 @@ export default async function handler(req, res) {
     return;
   }
 
-  const { userId, subject, level, answers } = req.body;
+  const { userId, subject, answers, questionIds } = req.body;
   const student = getStudent(userId);
   if (!student) {
     res.status(400).json({ error: "알 수 없는 사용자예요" });
     return;
   }
 
-  const data = getSubjectData(student.grade, subject);
-  if (!data) {
-    res.status(400).json({ error: "알 수 없는 과목/학년이에요" });
-    return;
-  }
+  // 오늘 학생에게 나갔던 바로 그 세트로 채점 (캐시 사용)
+  const set = await getOrCreateDailySet(student, subject);
+  const level = set.level;
+  const pool = set.questions || [];
+  const questions =
+    Array.isArray(questionIds) && questionIds.length
+      ? questionIds.map((id) => pool.find((q) => String(q.id) === String(id))).filter(Boolean)
+      : pool;
 
-  const questions = data.levels[level] || [];
   let correctCount = 0;
   const detail = questions.map((q) => {
     const given = answers?.[q.id];
     const isCorrect = normalize(given) === normalize(q.answer);
     if (isCorrect) correctCount += 1;
-    return { id: q.id, q: q.q, given, answer: q.answer, image: q.image || null, isCorrect };
+    return { id: q.id, q: q.q, given, answer: q.answer, image: q.image || null, explain: q.explain || null, isCorrect };
   });
 
   const total = questions.length;
@@ -49,14 +51,12 @@ export default async function handler(req, res) {
   await saveProgress(userId, subject, newLevel);
   await saveResult(userId, subject, { correctCount, total, percent, level, nextLevel: newLevel, detail });
 
-  // 오답노트: 틀린 문제는 추가, 맞힌 문제는(이전에 틀렸다면) 제거
   const wrongItems = detail.filter((d) => !d.isCorrect);
-  await addWrongNotes(userId, subject, level, wrongItems);
+  await addWrongNotes(userId, subject, level, wrongItems, set.concept?.title || null);
   for (const d of detail.filter((d) => d.isCorrect)) {
     await removeWrongNoteByKey(userId, `${subject}|${level}|${d.q}`);
   }
 
-  // 카카오톡으로 결과 발송 (학생 본인 + 학부모)
   let kakaoSent = true;
   const baseUrl = process.env.KAKAO_REDIRECT_URI.replace("/api/auth/kakao/callback", "");
   const message = {
