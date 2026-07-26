@@ -1,9 +1,11 @@
 import { getKakaoLoginUrl } from "../../../../lib/kakao";
 
-// /api/auth/kakao/start?role=daughter  또는 ?role=parent 로 접속하면
-// 카카오 로그인 화면으로 이동시켜줍니다.
+// /api/auth/kakao/start?who=<사용자아이디>  (학생은 id, 학부모는 id_parent)
 export default function handler(req, res) {
-  const role = req.query.role === "parent" ? "parent" : "daughter";
-  const loginUrl = getKakaoLoginUrl(role); // state 값으로 role을 실어 보냄
-  res.redirect(loginUrl);
+  const who = (req.query.who || "").toString();
+  if (!who) {
+    res.status(400).send("who 파라미터가 필요해요.");
+    return;
+  }
+  res.redirect(getKakaoLoginUrl(who)); // state로 who 전달
 }
