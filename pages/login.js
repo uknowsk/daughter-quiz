@@ -24,7 +24,7 @@ export default function Login({ students, parents }) {
           <div style={{ display: "flex", gap: 8, marginTop: 8, flexWrap: "wrap" }}>
             {parents.map((p) => (
               <a key={p.suffix} href={`/api/auth/kakao/start?who=${encodeURIComponent(s.id + "_" + p.suffix)}`} style={{ flex: 1, minWidth: 130 }}>
-                <button style={{ ...btn, background: "#ffe9a8" }}>학부모({p.name}) 로그인</button>
+                <button style={{ ...btn, background: "#FEE500", border: "1px solid #d9c400" }}>학부모({p.name}) 로그인</button>
               </a>
             ))}
           </div>
