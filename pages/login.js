@@ -1,10 +1,10 @@
-import { STUDENTS } from "../lib/users";
+import { STUDENTS, PARENTS } from "../lib/users";
 
 export async function getServerSideProps() {
-  return { props: { students: STUDENTS } };
+  return { props: { students: STUDENTS, parents: PARENTS } };
 }
 
-export default function Login({ students }) {
+export default function Login({ students, parents }) {
   return (
     <div style={{ maxWidth: 460, margin: "40px auto", padding: 20, fontFamily: "sans-serif" }}>
       <h1>최초 1회 카카오 로그인</h1>
@@ -16,13 +16,17 @@ export default function Login({ students }) {
       {students.map((s) => (
         <div key={s.id} style={{ border: "1px solid #eee", borderRadius: 10, padding: 16, marginBottom: 14 }}>
           <b>{s.name}</b> <span style={{ color: "#888" }}>· {s.grade}</span>
-          <div style={{ display: "flex", gap: 8, marginTop: 10 }}>
-            <a href={`/api/auth/kakao/start?who=${encodeURIComponent(s.id)}`} style={{ flex: 1 }}>
+          <div style={{ marginTop: 10 }}>
+            <a href={`/api/auth/kakao/start?who=${encodeURIComponent(s.id)}`}>
               <button style={btn}>{s.name} 본인 로그인</button>
             </a>
-            <a href={`/api/auth/kakao/start?who=${encodeURIComponent(s.id + "_parent")}`} style={{ flex: 1 }}>
-              <button style={{ ...btn, background: "#ffe9a8" }}>학부모 로그인</button>
-            </a>
+          </div>
+          <div style={{ display: "flex", gap: 8, marginTop: 8, flexWrap: "wrap" }}>
+            {parents.map((p) => (
+              <a key={p.suffix} href={`/api/auth/kakao/start?who=${encodeURIComponent(s.id + "_" + p.suffix)}`} style={{ flex: 1, minWidth: 130 }}>
+                <button style={{ ...btn, background: "#ffe9a8" }}>학부모({p.name}) 로그인</button>
+              </a>
+            ))}
           </div>
         </div>
       ))}

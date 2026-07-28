@@ -1,6 +1,6 @@
 import { exchangeCodeForToken, sendToMe } from "../../../../lib/kakao";
 import { saveToken } from "../../../../lib/store";
-import { getStudent } from "../../../../lib/users";
+import { getStudent, PARENTS } from "../../../../lib/users";
 
 export default async function handler(req, res) {
   const { code, state } = req.query; // state = who (예: "daughter" 또는 "daughter_parent")
@@ -13,10 +13,14 @@ export default async function handler(req, res) {
     return;
   }
 
-  const isParent = who.endsWith("_parent");
-  const studentId = isParent ? who.replace(/_parent$/, "") : who;
+  // who 가 "<학생id>_<parentSuffix>" 형태면 학부모 로그인
+  const parentMatch = PARENTS.find((p) => who.endsWith(`_${p.suffix}`));
+  const isParent = Boolean(parentMatch);
+  const studentId = isParent ? who.slice(0, who.length - (parentMatch.suffix.length + 1)) : who;
   const student = getStudent(studentId);
-  const label = student ? `${student.name}${isParent ? " 학부모" : ""}` : who;
+  const label = student
+    ? `${student.name}${isParent ? ` 학부모(${parentMatch.name})` : ""}`
+    : who;
 
   try {
     const tokenData = await exchangeCodeForToken(code);

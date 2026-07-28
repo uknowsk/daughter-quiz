@@ -1,4 +1,4 @@
-import { getStudent } from "../../lib/users";
+import { getStudent, parentKeys } from "../../lib/users";
 import { getOrCreateDailySet } from "../../lib/daily";
 import {
   getValidAccessToken,
@@ -68,7 +68,7 @@ export default async function handler(req, res) {
     buttonText: "결과·오답 확인",
   };
 
-  for (const who of [userId, `${userId}_parent`]) {
+  for (const who of [userId, ...parentKeys(userId)]) {
     const token = await getValidAccessToken(who);
     if (!token) continue;
     try {
