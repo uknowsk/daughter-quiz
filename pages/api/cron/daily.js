@@ -3,7 +3,7 @@ import { sendToMe } from "../../../lib/kakao";
 import { STUDENTS, parentKeys } from "../../../lib/users";
 import { SUBJECT_LIST } from "../../../lib/curriculum";
 import { getOrCreateDailySet } from "../../../lib/daily";
-import { hasApiKey, getLastGenError } from "../../../lib/generate";
+import { hasApiKey, liveFallbackEnabled, getLastGenError } from "../../../lib/generate";
 
 // 첫 번째로 발송 가능한 학부모 토큰을 찾아 경고를 보냄 (관리자 = 로아빠)
 async function warnAdmin(text) {
@@ -49,8 +49,9 @@ export default async function handler(req, res) {
     for (const subject of SUBJECT_LIST) {
       try {
         const set = await getOrCreateDailySet(s, subject);
-        // API 키가 있는데도 정적 문제은행으로 떨어졌다면 = AI 생성 실패
-        if (hasApiKey() && set.source === "static") aiExpectedButFailed = true;
+        // 실시간 AI 생성을 로아빠가 켜둔 상태(ALLOW_LIVE_AI_FALLBACK=true)인데도 정적 문제은행으로 떨어졌다면 = AI 생성 실패
+        // (기본값인 "꺼짐" 상태에서 정적 폴백으로 가는 건 의도된 정상 동작이므로 경고하지 않음)
+        if (liveFallbackEnabled() && hasApiKey() && set.source === "static") aiExpectedButFailed = true;
       } catch (e) {
         console.error(`세트 생성 실패 (${s.id}/${subject}):`, e.message);
       }

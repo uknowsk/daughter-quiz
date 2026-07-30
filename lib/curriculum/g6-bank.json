@@ -7845,8 +7845,32 @@
     "영어": {
       "concepts": {
         "일반동사 3인칭 단수": {
-          "title": "개념: 일반동사 3인칭 단수 - 주어가 '그, 그녀, 그것' 일 때 동사 변신하기",
-          "body": "영어 문장에서 주어(누가, 무엇이)에 따라 동사가 모양을 바꾼다는 것을 알고 있나요? 특히 주어가 '그(He)', '그녀(She)', '그것(It)' 같은 단수형(한 명, 한 개)일 때 동사가 특별하게 변신합니다. 이것을 '3인칭 단수'라고 부르는데, 쉽게 말하면 '다른 사람이나 물건에 대해 말할 때'라는 뜻입니다. 예를 들어 \"나는 학교에 간다\"고 할 때는 'go'라고 하지만, \"그는 학교에 간다\"고 하면 'goes'로 변신해야 합니다.\n\n변신하는 규칙을 배워봅시다. 1단계: 보통 동사 뒤에 '-s'를 붙입니다. 예를 들어 'play(놀다)'는 'plays'가 되고, 'eat(먹다)'는 'eats'가 됩니다. 2단계: 동사가 'x, z, ch, sh'로 끝나면 '-es'를 붙입니다. 예: 'watch(보다)' → 'watches'. 3단계: 동사가 'o'로 끝나면 '-es'를 붙입니다. 예: 'go(가다)' → 'goes'. 4단계: 동사가 '자음 + y'로 끝나면 'y'를 'i'로 바꾸고 '-es'를 붙입니다. 예: 'study(공부하다)' → 'studies'. 하지만 불규칙 동사는 아예 다르게 변신해요. 예: 'have(가지다)' → 'has', 'do(하다)' → 'does'.\n\n실생활 예시를 생각해보세요. \"내 언니는 매일 아침 우유를 마신다\"고 말하려면 'My sister drinks milk every morning.'이라고 합니다. 여기서 주어가 'sister(언니)'는 '그녀' 즉 3인칭 단수이므로, 'drink'가 'drinks'로 변신했어요. 만약 \"나는 매일 아침 우유를 마신다\"고 하면 'I drink milk every morning.'이므로 'drink' 그대로 써요. 주어가 I, you, we, they일 때는 동사가 변하지 않고, He, She, It일 때만 동사가 특별하게 변신한다는 점을 기억하세요!\n\n핵심 한 줄 요약: He, She, It이 주어일 때는 동사 뒤에 '-s' 또는 '-es'를 붙여서 동사의 모양을 바꿔 써야 합니다."
+          "title": "개념: 일반동사의 3인칭 단수형",
+          "body": "영어에서 현재에 늘 하는 일이나 사실을 말할 때 일반동사를 그대로 써요. 그런데 주어가 he, she, it처럼 '한 사람/한 개'를 가리키는 3인칭 단수일 때는 동사 끝에 -s나 -es를 붙여줘야 해요. 예를 들어 I play는 그대로지만, He plays처럼 he가 주어면 동사에 s가 붙어요.\n\n대부분은 그냥 -s만 붙이면 되지만(read→reads, like→likes), 동사가 s, x, ch, sh, o로 끝나면 -es를 붙여요(watch→watches, go→goes, wash→washes). 자음+y로 끝나는 동사는 y를 i로 바꾸고 -es를 붙여요(study→studies, cry→cries). have는 불규칙이라서 has로 바뀌는 것도 꼭 기억해야 해요.\n\n부정문을 만들 때는 doesn't(=does not) + 동사원형을 써요. He doesn't like carrots처럼요. 의문문은 Does + 주어 + 동사원형?의 순서예요. Does she like pizza?처럼 동사에는 -s를 다시 붙이지 않는다는 점이 중요해요 — does가 이미 그 역할을 하고 있거든요.\n\n마치 모자를 쓴 사람(3인칭 단수 주어)을 만나면 동사도 '모자(-s/-es)'를 씌워줘야 하는데, does나 doesn't라는 '큰 모자'가 이미 등장하면 동사는 다시 모자를 쓰지 않는다고 생각하면 기억하기 쉬워요.\n\n핵심 한 줄 요약: 주어가 he/she/it이면 현재형 동사에 -(e)s를 붙이고, doesn't·Does 뒤에는 동사원형을 씁니다."
+        },
+        "현재진행형": {
+          "title": "개념: 현재진행형(be동사 + 동사-ing)",
+          "body": "현재진행형은 '지금 이 순간에 하고 있는 일'을 말할 때 써요. 만드는 방법은 간단해요: be동사(am/is/are) + 동사원형에 -ing를 붙이면 돼요. I am reading a book처럼요.\n\n-ing를 붙이는 규칙도 몇 가지 있어요. 대부분은 그냥 동사 뒤에 -ing를 붙이지만(play→playing), e로 끝나는 동사는 e를 빼고 -ing를 붙여요(make→making, write→writing). 짧은 모음 하나 뒤에 자음 하나로 끝나는 동사는 그 자음을 한 번 더 쓰고 -ing를 붙여요(run→running, swim→swimming, sit→sitting).\n\n부정문은 be동사 뒤에 not을 붙여요(I am not sleeping). 의문문은 be동사를 주어 앞으로 보내요(Are you watching TV?). 재미있는 점은, know나 like, love처럼 '생각이나 감정'을 나타내는 동사는 보통 진행형으로 잘 쓰지 않는다는 거예요. 'She is knowing the answer' 대신 그냥 'She knows the answer'라고 해야 자연스러워요.\n\n마치 사진을 찍는 순간처럼, 현재진행형은 '지금 이 장면'을 그대로 보여주는 표현이라고 생각하면 이해하기 쉬워요.\n\n핵심 한 줄 요약: 지금 하고 있는 일은 be동사(am/is/are) + 동사-ing로 표현하고, 감정이나 상태를 나타내는 동사는 보통 진행형을 쓰지 않아요."
+        },
+        "과거시제(규칙동사)": {
+          "title": "개념: 규칙동사의 과거형(-ed)",
+          "body": "이미 끝난 과거의 일을 말할 때는 동사를 과거형으로 바꿔야 해요. 규칙동사는 동사 끝에 -ed를 붙이면 과거형이 돼요. play→played, watch→watched처럼요.\n\n철자 규칙도 몇 가지 있어요. e로 끝나는 동사는 -d만 붙여요(like→liked, live→lived). 자음+y로 끝나는 동사는 y를 i로 바꾸고 -ed를 붙여요(study→studied, cry→cried, worry→worried). 짧은 모음 하나 뒤에 자음 하나로 끝나는 동사는 자음을 한 번 더 쓰고 -ed를 붙여요(stop→stopped, plan→planned).\n\n부정문은 didn't(=did not) + 동사원형을 써요. She didn't like the movie처럼요. 의문문은 Did + 주어 + 동사원형?이에요. Did you call me?처럼 동사에 다시 -ed를 붙이지 않는다는 점이 중요해요 — did가 이미 과거를 나타내고 있으니까요.\n\n주의할 점은 go, eat, see처럼 불규칙하게 변하는 동사들도 있다는 거예요(go→went, eat→ate). 이런 동사는 -ed 규칙을 따르지 않으니 따로 외워야 해요.\n\n핵심 한 줄 요약: 규칙동사의 과거형은 동사원형에 -ed를 붙이고, didn't·Did 뒤에는 동사원형을 씁니다."
+        },
+        "조동사 can": {
+          "title": "개념: 조동사 can",
+          "body": "can은 '~할 수 있다'는 능력이나 '~해도 된다'는 허가를 나타내는 조동사예요. 사용법은 아주 간단해요: can 뒤에는 항상 동사원형이 와요. She can swim, I can speak English처럼요.\n\n부정문은 can 뒤에 not을 붙여서 can't(또는 cannot)로 써요. He can't ride a bike처럼요. 의문문은 Can을 주어 앞으로 보내면 돼요. Can you play the guitar?처럼요.\n\ncan의 과거형은 could예요. 어렸을 때 할 수 있었던 일을 말할 때 쓰죠. He could swim when he was five처럼요. 미래에 할 수 있게 될 일을 말할 때는 will be able to를 써요 — can은 will과 함께 쓸 수 없기 때문이에요.\n\ncan은 두 가지 뜻으로 쓰인다는 점도 기억해두면 좋아요. Birds can fly는 '능력'을 말하지만, Can I open the window?는 '허락을 구하는' 뜻이에요. 같은 단어라도 상황에 따라 뜻이 달라지는 거죠.\n\n핵심 한 줄 요약: can + 동사원형은 능력·허가를 나타내고, 부정은 can't, 과거는 could, 미래의 능력은 will be able to로 표현합니다."
+        },
+        "비교급": {
+          "title": "개념: 형용사의 비교급",
+          "body": "두 대상을 비교할 때는 형용사를 비교급으로 바꾸고 뒤에 than을 붙여요. Tom is taller than Sam처럼요.\n\n짧은 형용사(대부분 1음절)는 뒤에 -er을 붙여요(tall→taller, fast→faster). e로 끝나는 형용사는 -r만 붙이고(large→larger, nice→nicer), 짧은 모음 하나 뒤에 자음 하나로 끝나면 자음을 한 번 더 쓰고 -er을 붙여요(big→bigger). 자음+y로 끝나면 y를 i로 바꾸고 -ier을 붙여요(happy→happier, easy→easier).\n\n반면 2음절 이상의 긴 형용사는 형용사 앞에 more를 붙여요(beautiful→more beautiful, famous→more famous). '더 좋다/더 나쁘다'처럼 불규칙하게 변하는 것들도 있어요: good→better, bad→worse, many/much→more, little→less.\n\n자주 하는 실수는 more와 -er을 같이 쓰는 거예요. 'more better'처럼요. better는 이미 비교급이니까 more를 또 붙이면 안 돼요.\n\n핵심 한 줄 요약: 짧은 형용사는 -er + than, 긴 형용사는 more + 원급 + than으로 비교급을 만들고, 불규칙 변화(good→better 등)는 따로 외워야 합니다."
+        },
+        "의문사 의문문": {
+          "title": "개념: 의문사가 있는 의문문",
+          "body": "무엇, 언제, 어디서, 누가, 왜, 어떻게처럼 구체적인 정보를 물을 때는 의문사(what, when, where, who, why, how)를 문장 맨 앞에 써요. 그 뒤로는 보통 의문문의 순서(do/does/did/be동사 + 주어 + 동사원형)가 이어져요. Where do you live?처럼요.\n\n주의할 점은 who가 문장의 주어 역할을 할 때예요. 이때는 do나 does 없이 Who + 동사(3인칭 단수형)? 순서로 바로 써요. Who made this cake?처럼 do 없이 만든 사람을 물어요.\n\nhow는 다양하게 활용돼요. How old(나이), How many(개수, 셀 수 있는 명사), How much(가격이나 양, 셀 수 없는 명사), How long(기간), How far(거리), How often(빈도)처럼 뒤에 오는 단어에 따라 뜻이 달라져요.\n\n또 What is ~ like?라는 표현은 '~은 어떠니?'라고 상태나 성격, 날씨 등을 물을 때 쓰는데, 단순히 '무엇을 좋아하니?'라고 물을 때(What do you like?)와는 뜻이 다르니 헷갈리지 않도록 주의해야 해요.\n\n핵심 한 줄 요약: 의문사(what/where/when/who/why/how)는 문장 맨 앞에 오고, who가 주어일 때만 do/does 없이 바로 동사가 이어집니다."
+        },
+        "미래표현 be going to": {
+          "title": "개념: 미래표현 be going to",
+          "body": "앞으로 할 일, 특히 미리 계획해 둔 일을 말할 때는 be going to + 동사원형을 써요. I am going to visit my grandmother this weekend처럼요. be동사는 주어에 따라 am/is/are로 바뀌어요.\n\nwill도 미래를 나타내는 표현이지만 쓰임이 조금 달라요. will은 말하는 그 순간에 즉흥적으로 결정한 일에 주로 쓰고(전화벨이 울릴 때 'I'll get it!'), be going to는 이미 마음속에 정해둔 계획이나, 지금 보이는 상황으로 미루어 예측할 때 써요(먹구름을 보고 'It's going to rain').\n\n부정문은 be동사 뒤에 not을 붙여요(I am not going to watch TV tonight). 의문문은 be동사를 주어 앞으로 보내요(Are you going to come to the party?).\n\n자주 하는 실수는 be동사를 빼먹는 거예요. 'I going to go'가 아니라 'I am going to go'처럼 be동사를 꼭 넣어야 해요.\n\n핵심 한 줄 요약: 미리 계획된 미래는 be going to + 동사원형으로 나타내고, 즉흥적인 결정이나 단순 예측에는 will을 씁니다."
         }
       },
       "banks": {
@@ -7855,189 +7879,3242 @@
             {
               "id": 1,
               "type": "mcq",
-              "q": "My sister _____ to school every day.",
+              "q": "He ___ breakfast every morning.",
               "choices": [
-                "go",
-                "goes",
-                "going",
-                "went"
+                "eats",
+                "eat",
+                "eating",
+                "ate"
               ],
-              "answer": "goes",
-              "explain": "3인칭 단수 주어 'My sister'에는 일반동사에 -s를 붙여야 하므로 'goes'가 정답입니다."
+              "answer": "eats",
+              "explain": "3인칭 단수 주어는 동사에 -s를 붙여요."
             },
             {
               "id": 2,
-              "type": "short",
-              "q": "He _____ (play) basketball after school.",
-              "answer": "plays",
-              "explain": "3인칭 단수 주어 'He'와 함께 현재시제를 나타낼 때 동사에 -s를 붙여 'plays'가 됩니다."
+              "type": "mcq",
+              "q": "She ___ to school by bike.",
+              "choices": [
+                "rides",
+                "ride",
+                "riding",
+                "rode"
+              ],
+              "answer": "rides",
+              "explain": "she는 3인칭 단수라 rides."
             },
             {
               "id": 3,
               "type": "mcq",
-              "q": "Which sentence is correct?",
+              "q": "My dad ___ the newspaper every day.",
               "choices": [
-                "She eat apples.",
-                "She eats apples.",
-                "She eating apples.",
-                "She eated apples."
+                "reads",
+                "read",
+                "reading",
+                "readed"
               ],
-              "answer": "She eats apples.",
-              "explain": "3인칭 단수 'She'는 일반동사 'eat'에 -s를 붙여 'eats'로 만들어야 합니다."
+              "answer": "reads",
+              "explain": "3인칭 단수 현재형은 reads."
             },
             {
               "id": 4,
-              "type": "short",
-              "q": "My father _____ (watch) TV in the evening.",
-              "answer": "watches",
-              "explain": "'watch'는 자음+e로 끝나므로 3인칭 단수일 때 -es를 붙여 'watches'가 됩니다."
+              "type": "mcq",
+              "q": "It ___ a lot in summer.",
+              "choices": [
+                "rains",
+                "rain",
+                "raining",
+                "rained"
+              ],
+              "answer": "rains",
+              "explain": "it은 3인칭 단수."
             },
             {
               "id": 5,
               "type": "mcq",
-              "q": "The dog _____ in the park every morning.",
+              "q": "Tom ___ his teeth twice a day.",
               "choices": [
-                "run",
-                "runs",
-                "running",
-                "ran"
+                "brushes",
+                "brush",
+                "brushing",
+                "brushed"
               ],
-              "answer": "runs",
-              "explain": "3인칭 단수 주어 'The dog'에 일반동사 'run'의 현재형은 -s를 붙여 'runs'입니다."
+              "answer": "brushes",
+              "explain": "sh로 끝나는 동사는 -es를 붙여요."
             },
             {
               "id": 6,
-              "type": "short",
-              "q": "She _____ (like) pizza very much.",
-              "answer": "likes",
-              "explain": "'like'는 e로 끝나므로 3인칭 단수일 때 -s만 붙여 'likes'가 됩니다."
+              "type": "mcq",
+              "q": "My mom ___ dinner every evening.",
+              "choices": [
+                "cooks",
+                "cook",
+                "cooking",
+                "cooked"
+              ],
+              "answer": "cooks",
+              "explain": "3인칭 단수 현재형."
             },
             {
               "id": 7,
               "type": "mcq",
-              "q": "Tom _____ his homework every day.",
+              "q": "He ___ TV after school.",
               "choices": [
-                "do",
-                "does",
-                "doing",
-                "done"
+                "watches",
+                "watch",
+                "watchs",
+                "watching"
               ],
-              "answer": "does",
-              "explain": "3인칭 단수 'Tom'과 함께 'do'는 'does'로 변형되어 'Tom does his homework'입니다."
+              "answer": "watches",
+              "explain": "ch로 끝나면 -es를 붙여요."
             },
             {
               "id": 8,
-              "type": "short",
-              "q": "It _____ (rain) a lot in summer.",
-              "answer": "rains",
-              "explain": "3인칭 단수 'It'에 'rain'은 -s를 붙여 'rains'가 됩니다."
-            },
-            {
-              "id": 9,
               "type": "mcq",
-              "q": "My mother _____ dinner at 6 o'clock.",
+              "q": "She ___ two languages.",
               "choices": [
-                "cook",
-                "cooks",
-                "cooked",
-                "cooking"
-              ],
-              "answer": "cooks",
-              "explain": "3인칭 단수 주어 'My mother'에 'cook'은 -s를 붙여 'cooks'가 되어 현재 습관을 나타냅니다."
-            },
-            {
-              "id": 10,
-              "type": "short",
-              "q": "My teacher _____ (study) English very well.",
-              "answer": "studies",
-              "explain": "'study'는 자음+y로 끝나므로 y를 i로 바꾸고 -es를 붙여 'studies'가 됩니다."
-            },
-            {
-              "id": 11,
-              "type": "mcq",
-              "q": "My friend _____ English in the classroom.",
-              "choices": [
-                "speak",
                 "speaks",
+                "speak",
                 "speaking",
                 "spoke"
               ],
               "answer": "speaks",
-              "explain": "3인칭 단수 주어 My friend 뒤에는 동사에 -s를 붙여야 합니다."
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 9,
+              "type": "short",
+              "q": "study의 3인칭 단수형(He ___)을 쓰시오.",
+              "answer": "studies",
+              "explain": "자음+y로 끝나면 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 10,
+              "type": "mcq",
+              "q": "My sister ___ the piano well.",
+              "choices": [
+                "plays",
+                "play",
+                "playes",
+                "playing"
+              ],
+              "answer": "plays",
+              "explain": "모음+y는 그대로 -s만 붙여요."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "He ___ not like carrots.",
+              "choices": [
+                "does",
+                "do",
+                "is",
+                "are"
+              ],
+              "answer": "does",
+              "explain": "3인칭 단수 부정문은 does not."
             },
             {
               "id": 12,
-              "type": "short",
-              "q": "She _____ (go) to the library on Saturdays.",
-              "answer": "goes",
-              "explain": "3인칭 단수 She 뒤의 go는 goes로 변합니다."
-            },
-            {
-              "id": 13,
-              "type": "short",
-              "q": "My cousin _____ (drink) milk every morning.",
-              "answer": "drinks",
-              "explain": "3인칭 단수 My cousin 뒤의 drink는 drinks로 변합니다."
-            },
-            {
-              "id": 14,
               "type": "mcq",
-              "q": "Paul _____ soccer with his friends on weekends.",
+              "q": "___ she like pizza?",
               "choices": [
-                "play",
-                "plays",
-                "playing",
-                "played"
-              ],
-              "answer": "plays",
-              "explain": "3인칭 단수 주어 Paul 뒤에는 동사에 -s를 붙여 plays로 만듭니다."
-            },
-            {
-              "id": 15,
-              "type": "short",
-              "q": "The bird _____ (sing) beautifully in the morning.",
-              "answer": "sings",
-              "explain": "3인칭 단수 The bird 뒤의 sing은 sings로 변합니다."
-            },
-            {
-              "id": 16,
-              "type": "mcq",
-              "q": "_____ your grandmother cook Korean food?",
-              "choices": [
-                "Do",
                 "Does",
+                "Do",
                 "Is",
                 "Are"
               ],
               "answer": "Does",
-              "explain": "3인칭 단수 your grandmother를 묻는 의문문에서는 Does를 사용합니다."
+              "explain": "3인칭 단수 의문문은 Does로 시작."
             },
             {
-              "id": 17,
-              "type": "short",
-              "q": "My uncle _____ (work) at a hospital.",
-              "answer": "works",
-              "explain": "3인칭 단수 My uncle 뒤의 work는 works로 변합니다."
-            },
-            {
-              "id": 18,
+              "id": 13,
               "type": "mcq",
-              "q": "The student _____ his homework every day after school.",
+              "q": "My brother ___ his homework after dinner.",
               "choices": [
-                "do",
                 "does",
+                "do",
                 "doing",
                 "did"
               ],
               "answer": "does",
-              "explain": "3인칭 단수 주어 The student 뒤에는 does를 사용합니다."
+              "explain": "do 동사의 3인칭 단수형은 does."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "The store ___ at 9 p.m.",
+              "choices": [
+                "closes",
+                "close",
+                "closing",
+                "closed"
+              ],
+              "answer": "closes",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 15,
+              "type": "mcq",
+              "q": "She ___ her room every Saturday.",
+              "choices": [
+                "cleans",
+                "clean",
+                "cleaning",
+                "cleaned"
+              ],
+              "answer": "cleans",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 16,
+              "type": "short",
+              "q": "wash의 3인칭 단수형(He ___)을 쓰시오.",
+              "answer": "washes",
+              "explain": "sh로 끝나면 -es를 붙여요."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "My grandmother ___ us stories at night.",
+              "choices": [
+                "tells",
+                "tell",
+                "telling",
+                "told"
+              ],
+              "answer": "tells",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "He usually ___ up at seven.",
+              "choices": [
+                "gets",
+                "get",
+                "getting",
+                "got"
+              ],
+              "answer": "gets",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "It ___ dark early in winter.",
+              "choices": [
+                "gets",
+                "get",
+                "getting",
+                "got"
+              ],
+              "answer": "gets",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 20,
+              "type": "short",
+              "q": "fix의 3인칭 단수형(He ___)을 쓰시오.",
+              "answer": "fixes",
+              "explain": "x로 끝나면 -es를 붙여요."
+            }
+          ],
+          "상": [
+            {
+              "id": 1,
+              "type": "short",
+              "q": "fly의 3인칭 단수형(It ___)을 쓰시오.",
+              "answer": "flies",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 2,
+              "type": "short",
+              "q": "cry의 3인칭 단수형(The baby ___)을 쓰시오.",
+              "answer": "cries",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "He ___ to work by subway, not by bus.",
+              "choices": [
+                "goes",
+                "go",
+                "going",
+                "went"
+              ],
+              "answer": "goes",
+              "explain": "go의 3인칭 단수형은 goes."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "My father ___ two cars.",
+              "choices": [
+                "has",
+                "have",
+                "haves",
+                "having"
+              ],
+              "answer": "has",
+              "explain": "have의 3인칭 단수형은 불규칙하게 has."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "She ___ not have any brothers.",
+              "choices": [
+                "does",
+                "do",
+                "is",
+                "has"
+              ],
+              "answer": "does",
+              "explain": "have의 부정문도 does not + have를 써요."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "___ your brother play soccer well?",
+              "choices": [
+                "Does",
+                "Do",
+                "Is",
+                "Are"
+              ],
+              "answer": "Does",
+              "explain": "3인칭 단수 의문문은 Does."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "My teacher never ___ us homework on Fridays.",
+              "choices": [
+                "gives",
+                "give",
+                "giving",
+                "gave"
+              ],
+              "answer": "gives",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "The museum ___ every day except Monday.",
+              "choices": [
+                "opens",
+                "open",
+                "opening",
+                "opened"
+              ],
+              "answer": "opens",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 9,
+              "type": "short",
+              "q": "carry의 3인칭 단수형(She ___)을 쓰시오.",
+              "answer": "carries",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 10,
+              "type": "mcq",
+              "q": "He rarely ___ his room.",
+              "choices": [
+                "cleans",
+                "clean",
+                "cleaning",
+                "cleaned"
+              ],
+              "answer": "cleans",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "다음 중 옳은 문장은?",
+              "choices": [
+                "He goes to school.",
+                "He go to school.",
+                "He going to school.",
+                "He gone to school."
+              ],
+              "answer": "He goes to school.",
+              "explain": "3인칭 단수 현재는 goes를 써요."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "다음 중 3인칭 단수형이 잘못된 것은?",
+              "choices": [
+                "studys",
+                "mixes",
+                "washes",
+                "catches"
+              ],
+              "answer": "studys",
+              "explain": "study는 studies가 맞아요."
+            },
+            {
+              "id": 13,
+              "type": "short",
+              "q": "'She watch TV every night.'에서 틀린 부분을 한 단어로 고쳐 쓰시오.",
+              "answer": "watches",
+              "explain": "3인칭 단수는 watches."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "He doesn't ___ coffee in the morning.",
+              "choices": [
+                "drink",
+                "drinks",
+                "drank",
+                "drinking"
+              ],
+              "answer": "drink",
+              "explain": "doesn't 뒤에는 동사원형."
+            },
+            {
+              "id": 15,
+              "type": "mcq",
+              "q": "___ it snow a lot here in winter?",
+              "choices": [
+                "Does",
+                "Do",
+                "Is",
+                "Can"
+              ],
+              "answer": "Does",
+              "explain": "it은 3인칭 단수, 의문문은 Does."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "My little brother sometimes ___ his sister's toys.",
+              "choices": [
+                "breaks",
+                "break",
+                "breaking",
+                "broke"
+              ],
+              "answer": "breaks",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 17,
+              "type": "short",
+              "q": "'He do his homework every day.'에서 틀린 단어를 바르게 고쳐 쓰시오.",
+              "answer": "does",
+              "explain": "3인칭 단수는 does."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "The sun ___ in the east.",
+              "choices": [
+                "rises",
+                "rise",
+                "rising",
+                "rose"
+              ],
+              "answer": "rises",
+              "explain": "일반적 사실도 현재형, 3인칭 단수는 -s."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "My uncle ___ a red car, not a blue one.",
+              "choices": [
+                "has",
+                "have",
+                "is",
+                "does"
+              ],
+              "answer": "has",
+              "explain": "have의 3인칭 단수형은 has."
+            },
+            {
+              "id": 20,
+              "type": "short",
+              "q": "'Does she likes music?'에서 틀린 동사를 바르게 고쳐 쓰시오.",
+              "answer": "like",
+              "explain": "Does 뒤에는 동사원형(likes가 아니라 like)."
+            }
+          ]
+        },
+        "현재진행형": {
+          "중": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "I ___ my homework now.",
+              "choices": [
+                "am doing",
+                "do",
+                "does",
+                "doing"
+              ],
+              "answer": "am doing",
+              "explain": "현재진행형은 be동사+동사-ing."
+            },
+            {
+              "id": 2,
+              "type": "mcq",
+              "q": "She ___ a letter now.",
+              "choices": [
+                "is writing",
+                "write",
+                "writes",
+                "writing"
+              ],
+              "answer": "is writing",
+              "explain": "she는 is를 써요."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "They ___ soccer in the park.",
+              "choices": [
+                "are playing",
+                "play",
+                "plays",
+                "playing"
+              ],
+              "answer": "are playing",
+              "explain": "they는 are를 써요."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "We ___ lunch right now.",
+              "choices": [
+                "are having",
+                "have",
+                "has",
+                "having"
+              ],
+              "answer": "are having",
+              "explain": "we는 are를 써요."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "He ___ to music at the moment.",
+              "choices": [
+                "is listening",
+                "listen",
+                "listens",
+                "listening"
+              ],
+              "answer": "is listening",
+              "explain": "he는 is를 써요."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "___ you watching this movie?",
+              "choices": [
+                "Are",
+                "Is",
+                "Do",
+                "Does"
+              ],
+              "answer": "Are",
+              "explain": "you는 are를 써요."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "I ___ not sleeping now.",
+              "choices": [
+                "am",
+                "is",
+                "are",
+                "do"
+              ],
+              "answer": "am",
+              "explain": "I는 am을 써요."
+            },
+            {
+              "id": 8,
+              "type": "short",
+              "q": "make의 -ing형을 쓰시오.",
+              "answer": "making",
+              "explain": "e로 끝나면 e를 빼고 -ing."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "The baby ___ now.",
+              "choices": [
+                "is crying",
+                "cry",
+                "cries",
+                "crying"
+              ],
+              "answer": "is crying",
+              "explain": "the baby는 is를 써요."
+            },
+            {
+              "id": 10,
+              "type": "mcq",
+              "q": "My parents ___ in the garden now.",
+              "choices": [
+                "are working",
+                "work",
+                "works",
+                "working"
+              ],
+              "answer": "are working",
+              "explain": "복수 주어는 are를 써요."
+            },
+            {
+              "id": 11,
+              "type": "short",
+              "q": "run의 -ing형을 쓰시오.",
+              "answer": "running",
+              "explain": "짧은 모음+자음은 자음을 하나 더 쓰고 -ing."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "She ___ a shower right now.",
+              "choices": [
+                "is taking",
+                "take",
+                "takes",
+                "taking"
+              ],
+              "answer": "is taking",
+              "explain": "she는 is를 써요."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "___ he studying in his room?",
+              "choices": [
+                "Is",
+                "Are",
+                "Does",
+                "Do"
+              ],
+              "answer": "Is",
+              "explain": "he는 is를 써요."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "We ___ for the bus now.",
+              "choices": [
+                "are waiting",
+                "wait",
+                "waits",
+                "waiting"
+              ],
+              "answer": "are waiting",
+              "explain": "we는 are를 써요."
+            },
+            {
+              "id": 15,
+              "type": "mcq",
+              "q": "I ___ a picture of the sunset.",
+              "choices": [
+                "am taking",
+                "take",
+                "takes",
+                "taking"
+              ],
+              "answer": "am taking",
+              "explain": "I는 am을 써요."
+            },
+            {
+              "id": 16,
+              "type": "short",
+              "q": "swim의 -ing형을 쓰시오.",
+              "answer": "swimming",
+              "explain": "짧은 모음+자음은 자음을 하나 더 쓰고 -ing."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "They ___ a movie at the cinema now.",
+              "choices": [
+                "are watching",
+                "watch",
+                "watches",
+                "watching"
+              ],
+              "answer": "are watching",
+              "explain": "they는 are를 써요."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "He ___ his bike at the moment.",
+              "choices": [
+                "is riding",
+                "ride",
+                "rides",
+                "riding"
+              ],
+              "answer": "is riding",
+              "explain": "he는 is를 써요."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "___ they cooking dinner now?",
+              "choices": [
+                "Are",
+                "Is",
+                "Do",
+                "Does"
+              ],
+              "answer": "Are",
+              "explain": "they는 are를 써요."
+            },
+            {
+              "id": 20,
+              "type": "short",
+              "q": "write의 -ing형을 쓰시오.",
+              "answer": "writing",
+              "explain": "e로 끝나면 e를 빼고 -ing."
+            }
+          ],
+          "상": [
+            {
+              "id": 1,
+              "type": "short",
+              "q": "die의 -ing형을 쓰시오.",
+              "answer": "dying",
+              "explain": "ie로 끝나면 ie를 y로 바꾸고 -ing."
+            },
+            {
+              "id": 2,
+              "type": "short",
+              "q": "lie의 -ing형을 쓰시오.",
+              "answer": "lying",
+              "explain": "ie로 끝나면 ie를 y로 바꾸고 -ing."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "다음 중 -ing형이 잘못된 것은?",
+              "choices": [
+                "runing",
+                "sitting",
+                "swimming",
+                "getting"
+              ],
+              "answer": "runing",
+              "explain": "run은 자음을 하나 더해 running이 맞아요."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "'She is know the answer.'를 자연스럽게 고치면?",
+              "choices": [
+                "She knows the answer.",
+                "She is knowing the answer.",
+                "She know the answer.",
+                "She is knows the answer."
+              ],
+              "answer": "She knows the answer.",
+              "explain": "know처럼 상태를 나타내는 동사는 진행형을 잘 쓰지 않아요."
+            },
+            {
+              "id": 5,
+              "type": "short",
+              "q": "'They is playing soccer.'에서 틀린 be동사를 바르게 고쳐 쓰시오.",
+              "answer": "are",
+              "explain": "they는 are를 써요."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "He ___ not watching TV right now; he's reading.",
+              "choices": [
+                "is",
+                "are",
+                "am",
+                "does"
+              ],
+              "answer": "is",
+              "explain": "he는 is를 써요."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "'You are study now.'를 올바르게 고치면?",
+              "choices": [
+                "You are studying now.",
+                "You studying now.",
+                "You is studying now.",
+                "You are studies now."
+              ],
+              "answer": "You are studying now.",
+              "explain": "be동사+동사-ing 형태로 써야 해요."
+            },
+            {
+              "id": 8,
+              "type": "short",
+              "q": "'너는 무엇을 하고 있니?' What ___ you doing? 빈칸을 채우시오.",
+              "answer": "are",
+              "explain": "you는 are를 써요."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "sit의 -ing형으로 알맞은 것은?",
+              "choices": [
+                "sitting",
+                "siting",
+                "sitteing",
+                "sitng"
+              ],
+              "answer": "sitting",
+              "explain": "짧은 모음+자음은 자음을 하나 더."
+            },
+            {
+              "id": 10,
+              "type": "mcq",
+              "q": "She ___ a cake for my birthday now.",
+              "choices": [
+                "is making",
+                "make",
+                "makes",
+                "making"
+              ],
+              "answer": "is making",
+              "explain": "she는 is를 써요."
+            },
+            {
+              "id": 11,
+              "type": "short",
+              "q": "'He is crys now.'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "crying",
+              "explain": "진행형은 be동사+동사-ing."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "다음 중 진행형 문장으로 알맞은 것은?",
+              "choices": [
+                "It is raining now.",
+                "It rains now progressive.",
+                "It is rains now.",
+                "It raining now."
+              ],
+              "answer": "It is raining now.",
+              "explain": "be동사+동사-ing 형태."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "'Is she cook dinner now?'를 올바르게 고치면?",
+              "choices": [
+                "Is she cooking dinner now?",
+                "Does she cooking dinner now?",
+                "Is she cooks dinner now?",
+                "Cook she dinner now?"
+              ],
+              "answer": "Is she cooking dinner now?",
+              "explain": "진행형 의문문은 be동사+주어+동사-ing."
+            },
+            {
+              "id": 14,
+              "type": "short",
+              "q": "begin의 -ing형을 쓰시오.",
+              "answer": "beginning",
+              "explain": "강세가 있는 짧은 모음+자음은 자음을 하나 더."
+            },
+            {
+              "id": 15,
+              "type": "mcq",
+              "q": "Look! It ___ outside.",
+              "choices": [
+                "is snowing",
+                "snows",
+                "snow",
+                "snowing"
+              ],
+              "answer": "is snowing",
+              "explain": "지금 이 순간의 일은 현재진행형."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "'그들은 지금 자고 있지 않다'의 올바른 영어는?",
+              "choices": [
+                "They are not sleeping now.",
+                "They not sleeping now.",
+                "They don't sleeping now.",
+                "They aren't sleep now."
+              ],
+              "answer": "They are not sleeping now.",
+              "explain": "진행형 부정문은 be동사+not+동사-ing."
+            },
+            {
+              "id": 17,
+              "type": "short",
+              "q": "'I am readding a book.'에서 철자가 틀린 단어를 바르게 고쳐 쓰시오.",
+              "answer": "reading",
+              "explain": "read는 그대로 -ing만 붙여요."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "다음 중 어색한 문장은?",
+              "choices": [
+                "She is loving this song.",
+                "She is singing a song.",
+                "She is dancing now.",
+                "She is cooking dinner."
+              ],
+              "answer": "She is loving this song.",
+              "explain": "love는 감정 동사라 진행형을 잘 쓰지 않아요."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "'그는 지금 숙제를 하고 있니?'의 올바른 영어는?",
+              "choices": [
+                "Is he doing his homework now?",
+                "Does he doing his homework now?",
+                "Is he does his homework now?",
+                "He is doing his homework now?"
+              ],
+              "answer": "Is he doing his homework now?",
+              "explain": "진행형 의문문은 Is+주어+동사-ing?"
+            },
+            {
+              "id": 20,
+              "type": "short",
+              "q": "stop의 -ing형을 쓰시오.",
+              "answer": "stopping",
+              "explain": "짧은 모음+자음은 자음을 하나 더."
+            }
+          ]
+        },
+        "과거시제(규칙동사)": {
+          "중": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "I ___ soccer yesterday.",
+              "choices": [
+                "played",
+                "play",
+                "plays",
+                "playing"
+              ],
+              "answer": "played",
+              "explain": "규칙동사 과거형은 -ed."
+            },
+            {
+              "id": 2,
+              "type": "mcq",
+              "q": "She ___ her homework last night.",
+              "choices": [
+                "finished",
+                "finish",
+                "finishes",
+                "finishing"
+              ],
+              "answer": "finished",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "We ___ a movie last weekend.",
+              "choices": [
+                "watched",
+                "watch",
+                "watches",
+                "watching"
+              ],
+              "answer": "watched",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "He ___ his room this morning.",
+              "choices": [
+                "cleaned",
+                "clean",
+                "cleans",
+                "cleaning"
+              ],
+              "answer": "cleaned",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "They ___ to the park yesterday.",
+              "choices": [
+                "walked",
+                "walk",
+                "walks",
+                "walking"
+              ],
+              "answer": "walked",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 6,
+              "type": "short",
+              "q": "study의 과거형을 쓰시오.",
+              "answer": "studied",
+              "explain": "자음+y는 y를 i로 바꾸고 -ed."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "She ___ dinner for us last night.",
+              "choices": [
+                "cooked",
+                "cook",
+                "cooks",
+                "cooking"
+              ],
+              "answer": "cooked",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "He ___ his teeth before bed.",
+              "choices": [
+                "brushed",
+                "brush",
+                "brushes",
+                "brushing"
+              ],
+              "answer": "brushed",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "We ___ our grandparents last Sunday.",
+              "choices": [
+                "visited",
+                "visit",
+                "visits",
+                "visiting"
+              ],
+              "answer": "visited",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 10,
+              "type": "short",
+              "q": "live의 과거형을 쓰시오.",
+              "answer": "lived",
+              "explain": "e로 끝나면 -d만 붙여요."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "She ___ the piano for two hours yesterday.",
+              "choices": [
+                "practiced",
+                "practice",
+                "practices",
+                "practicing"
+              ],
+              "answer": "practiced",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "I ___ not like the movie.",
+              "choices": [
+                "did",
+                "do",
+                "was",
+                "is"
+              ],
+              "answer": "did",
+              "explain": "과거 부정문은 did not."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "___ you call me last night?",
+              "choices": [
+                "Did",
+                "Do",
+                "Does",
+                "Were"
+              ],
+              "answer": "Did",
+              "explain": "과거 의문문은 Did."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "The kids ___ in the yard all afternoon.",
+              "choices": [
+                "played",
+                "play",
+                "plays",
+                "playing"
+              ],
+              "answer": "played",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 15,
+              "type": "short",
+              "q": "stop의 과거형을 쓰시오.",
+              "answer": "stopped",
+              "explain": "짧은 모음+자음은 자음을 하나 더."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "He ___ his bag quickly this morning.",
+              "choices": [
+                "packed",
+                "pack",
+                "packs",
+                "packing"
+              ],
+              "answer": "packed",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "We ___ a great time at the party.",
+              "choices": [
+                "enjoyed",
+                "enjoy",
+                "enjoys",
+                "enjoying"
+              ],
+              "answer": "enjoyed",
+              "explain": "규칙동사 과거형."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "She ___ the door quietly.",
+              "choices": [
+                "closed",
+                "close",
+                "closes",
+                "closing"
+              ],
+              "answer": "closed",
+              "explain": "규칙동사 과거형."
             },
             {
               "id": 19,
               "type": "short",
-              "q": "Jane _____ (dance) at the music club twice a week.",
-              "answer": "dances",
-              "explain": "3인칭 단수 Jane 뒤의 dance는 e를 유지하고 s를 붙여 dances로 변합니다."
+              "q": "carry의 과거형을 쓰시오.",
+              "answer": "carried",
+              "explain": "자음+y는 y를 i로 바꾸고 -ed."
+            },
+            {
+              "id": 20,
+              "type": "mcq",
+              "q": "I ___ my grandmother last weekend.",
+              "choices": [
+                "called",
+                "call",
+                "calls",
+                "calling"
+              ],
+              "answer": "called",
+              "explain": "규칙동사 과거형."
+            }
+          ],
+          "상": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "다음 중 과거형이 잘못된 것은?",
+              "choices": [
+                "stoped",
+                "played",
+                "studied",
+                "carried"
+              ],
+              "answer": "stoped",
+              "explain": "stop은 자음을 하나 더해 stopped가 맞아요."
+            },
+            {
+              "id": 2,
+              "type": "short",
+              "q": "plan의 과거형을 쓰시오.",
+              "answer": "planned",
+              "explain": "짧은 모음+자음은 자음을 하나 더."
+            },
+            {
+              "id": 3,
+              "type": "short",
+              "q": "worry의 과거형을 쓰시오.",
+              "answer": "worried",
+              "explain": "자음+y는 y를 i로 바꾸고 -ed."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "'He go to school yesterday.'에서 틀린 부분을 고치면?",
+              "choices": [
+                "He went to school yesterday.",
+                "He goed to school yesterday.",
+                "He going to school yesterday.",
+                "He gone to school yesterday."
+              ],
+              "answer": "He went to school yesterday.",
+              "explain": "go는 불규칙동사로 과거형은 went예요."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "'She studyed English last night.'에서 철자가 틀린 단어를 바르게 고치면?",
+              "choices": [
+                "studied",
+                "studyed",
+                "studies",
+                "studing"
+              ],
+              "answer": "studied",
+              "explain": "자음+y는 y를 i로 바꾸고 -ed."
+            },
+            {
+              "id": 6,
+              "type": "short",
+              "q": "'They didn't watched TV last night.'에서 틀린 동사를 바르게 고쳐 쓰시오.",
+              "answer": "watch",
+              "explain": "didn't 뒤에는 동사원형."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "'너는 어제 숙제를 끝냈니?'의 올바른 영어는?",
+              "choices": [
+                "Did you finish your homework yesterday?",
+                "Did you finished your homework yesterday?",
+                "Do you finish your homework yesterday?",
+                "Finished you your homework yesterday?"
+              ],
+              "answer": "Did you finish your homework yesterday?",
+              "explain": "과거 의문문은 Did+주어+동사원형?"
+            },
+            {
+              "id": 8,
+              "type": "short",
+              "q": "'I liked the movie.'를 부정문으로 바꿔 쓰시오.",
+              "answer": "I didn't like the movie.",
+              "explain": "과거 부정문은 didn't+동사원형."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "'그녀는 어젯밤에 전화하지 않았다.'의 올바른 영어는?",
+              "choices": [
+                "She didn't call last night.",
+                "She not called last night.",
+                "She didn't called last night.",
+                "She doesn't call last night."
+              ],
+              "answer": "She didn't call last night.",
+              "explain": "didn't 뒤에는 동사원형."
+            },
+            {
+              "id": 10,
+              "type": "short",
+              "q": "hurry의 과거형을 쓰시오.",
+              "answer": "hurried",
+              "explain": "자음+y는 y를 i로 바꾸고 -ed."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "'Did he cleaned his room?'에서 틀린 부분을 고치면?",
+              "choices": [
+                "Did he clean his room?",
+                "Did he cleans his room?",
+                "Does he cleaned his room?",
+                "He did clean his room?"
+              ],
+              "answer": "Did he clean his room?",
+              "explain": "Did 뒤에는 동사원형."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "다음 중 옳은 문장은?",
+              "choices": [
+                "We arrived at the airport at noon.",
+                "We arrive at the airport at noon yesterday.",
+                "We arriving at the airport at noon yesterday.",
+                "We arrives at the airport at noon yesterday."
+              ],
+              "answer": "We arrived at the airport at noon.",
+              "explain": "arrive는 e로 끝나 -d만 붙여요."
+            },
+            {
+              "id": 13,
+              "type": "short",
+              "q": "'I use the computer.'를 어제 있었던 일로 바꿔 쓰시오.",
+              "answer": "I used the computer yesterday.",
+              "explain": "use는 e로 끝나 -d만 붙여요."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "다음 중 자음을 겹쳐 쓰는 과거형이 아닌 것은?",
+              "choices": [
+                "opened",
+                "stopped",
+                "planned",
+                "dropped"
+              ],
+              "answer": "opened",
+              "explain": "open은 강세가 앞음절이라 자음을 겹치지 않아요."
+            },
+            {
+              "id": 15,
+              "type": "short",
+              "q": "'She cryed all night.'에서 철자가 틀린 단어를 바르게 고치면?",
+              "answer": "cried",
+              "explain": "자음+y는 y를 i로 바꾸고 -ed."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "We ___ surprised at the news.",
+              "choices": [
+                "weren't",
+                "wasn't",
+                "didn't",
+                "don't"
+              ],
+              "answer": "weren't",
+              "explain": "형용사 앞이므로 be동사 과거 부정을 써요."
+            },
+            {
+              "id": 17,
+              "type": "short",
+              "q": "'They wanted play outside.'에서 빠진 것을 채워 자연스럽게 고쳐 쓰시오.",
+              "answer": "to play",
+              "explain": "want 뒤에는 to부정사가 와야 해요."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "다음 중 규칙동사의 과거형이 맞는 것은?",
+              "choices": [
+                "dropped",
+                "droped",
+                "dropt",
+                "droping"
+              ],
+              "answer": "dropped",
+              "explain": "짧은 모음+자음은 자음을 하나 더."
+            },
+            {
+              "id": 19,
+              "type": "short",
+              "q": "'Did she likes the gift?'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "like",
+              "explain": "Did 뒤에는 동사원형."
+            },
+            {
+              "id": 20,
+              "type": "mcq",
+              "q": "'그들은 지난주에 이사하지 않았다.'의 올바른 영어는?",
+              "choices": [
+                "They didn't move last week.",
+                "They not moved last week.",
+                "They didn't moved last week.",
+                "They doesn't move last week."
+              ],
+              "answer": "They didn't move last week.",
+              "explain": "didn't 뒤에는 동사원형."
+            }
+          ]
+        },
+        "조동사 can": {
+          "중": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "She ___ swim very well.",
+              "choices": [
+                "can",
+                "cans",
+                "is",
+                "does"
+              ],
+              "answer": "can",
+              "explain": "can 뒤에는 동사원형."
+            },
+            {
+              "id": 2,
+              "type": "mcq",
+              "q": "I ___ speak three languages.",
+              "choices": [
+                "can",
+                "cans",
+                "am",
+                "do"
+              ],
+              "answer": "can",
+              "explain": "can은 주어에 따라 형태가 바뀌지 않아요."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "He ___ ride a bike yet.",
+              "choices": [
+                "can't",
+                "not",
+                "doesn't",
+                "isn't"
+              ],
+              "answer": "can't",
+              "explain": "can의 부정은 can't."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "___ you play the guitar?",
+              "choices": [
+                "Can",
+                "Do",
+                "Are",
+                "Is"
+              ],
+              "answer": "Can",
+              "explain": "can 의문문은 Can으로 시작."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "Fish ___ swim.",
+              "choices": [
+                "can",
+                "cans",
+                "is",
+                "does"
+              ],
+              "answer": "can",
+              "explain": "can 뒤에는 동사원형."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "Fish ___ walk.",
+              "choices": [
+                "can't",
+                "not",
+                "isn't",
+                "doesn't"
+              ],
+              "answer": "can't",
+              "explain": "can의 부정은 can't."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "___ I use your pen?",
+              "choices": [
+                "Can",
+                "Do",
+                "Am",
+                "Is"
+              ],
+              "answer": "Can",
+              "explain": "허가를 구할 때도 Can을 써요."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "She can't ___ Italian food.",
+              "choices": [
+                "cook",
+                "cooks",
+                "cooking",
+                "cooked"
+              ],
+              "answer": "cook",
+              "explain": "can't 뒤에는 동사원형."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "My brother ___ drive a car.",
+              "choices": [
+                "can",
+                "cans",
+                "is",
+                "does"
+              ],
+              "answer": "can",
+              "explain": "can 뒤에는 동사원형."
+            },
+            {
+              "id": 10,
+              "type": "short",
+              "q": "'그는 수영을 할 수 있다.'를 영어로 쓰시오. (can 사용)",
+              "answer": "He can swim.",
+              "explain": "can+동사원형."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "We ___ see the mountain from here.",
+              "choices": [
+                "can",
+                "cans",
+                "is",
+                "does"
+              ],
+              "answer": "can",
+              "explain": "can 뒤에는 동사원형."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "___ your sister speak English?",
+              "choices": [
+                "Can",
+                "Do",
+                "Is",
+                "Are"
+              ],
+              "answer": "Can",
+              "explain": "can 의문문."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "I can't ___ my keys.",
+              "choices": [
+                "find",
+                "finds",
+                "finding",
+                "found"
+              ],
+              "answer": "find",
+              "explain": "can't 뒤에는 동사원형."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "You ___ borrow my book if you want.",
+              "choices": [
+                "can",
+                "cans",
+                "is",
+                "does"
+              ],
+              "answer": "can",
+              "explain": "can 뒤에는 동사원형."
+            },
+            {
+              "id": 15,
+              "type": "mcq",
+              "q": "___ they come to the party?",
+              "choices": [
+                "Can",
+                "Do",
+                "Is",
+                "Are"
+              ],
+              "answer": "Can",
+              "explain": "can 의문문."
+            },
+            {
+              "id": 16,
+              "type": "short",
+              "q": "'그녀는 피아노를 칠 수 없다.'를 영어로 쓰시오. (can't 사용)",
+              "answer": "She can't play the piano.",
+              "explain": "can't+동사원형."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "He ___ speak Chinese, but he can speak Japanese.",
+              "choices": [
+                "can't",
+                "not",
+                "doesn't",
+                "isn't"
+              ],
+              "answer": "can't",
+              "explain": "can의 부정은 can't."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "___ we go outside now?",
+              "choices": [
+                "Can",
+                "Do",
+                "Is",
+                "Are"
+              ],
+              "answer": "Can",
+              "explain": "can 의문문."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "My grandfather ___ still run fast.",
+              "choices": [
+                "can",
+                "cans",
+                "is",
+                "does"
+              ],
+              "answer": "can",
+              "explain": "can 뒤에는 동사원형."
+            },
+            {
+              "id": 20,
+              "type": "mcq",
+              "q": "The baby ___ walk yet.",
+              "choices": [
+                "can't",
+                "not",
+                "doesn't",
+                "isn't"
+              ],
+              "answer": "can't",
+              "explain": "can의 부정은 can't."
+            }
+          ],
+          "상": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "He ___ swim when he was five years old.",
+              "choices": [
+                "could",
+                "can",
+                "cans",
+                "is able"
+              ],
+              "answer": "could",
+              "explain": "과거의 능력은 could."
+            },
+            {
+              "id": 2,
+              "type": "short",
+              "q": "'She can speak French.'를 부정문으로 바꿔 쓰시오.",
+              "answer": "She can't speak French.",
+              "explain": "can의 부정은 can't(cannot)."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "'그는 어제 올 수 없었다.'의 올바른 영어는?",
+              "choices": [
+                "He couldn't come yesterday.",
+                "He can't come yesterday.",
+                "He doesn't come yesterday.",
+                "He isn't come yesterday."
+              ],
+              "answer": "He couldn't come yesterday.",
+              "explain": "과거 부정은 couldn't."
+            },
+            {
+              "id": 4,
+              "type": "short",
+              "q": "'Can she plays the violin?'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "play",
+              "explain": "can 뒤에는 동사원형."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "다음 중 의미가 다른 하나는?",
+              "choices": [
+                "He is able to swim.",
+                "He can swim.",
+                "He can't swim.",
+                "He is capable of swimming."
+              ],
+              "answer": "He can't swim.",
+              "explain": "나머지는 모두 '할 수 있다'는 뜻이에요."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "___ I open the window? — Sure, go ahead.",
+              "choices": [
+                "Can",
+                "Does",
+                "Is",
+                "Am"
+              ],
+              "answer": "Can",
+              "explain": "허가를 구하는 표현."
+            },
+            {
+              "id": 7,
+              "type": "short",
+              "q": "They ___ (be able to) drive next year. 빈칸을 채우시오.",
+              "answer": "will be able to",
+              "explain": "미래의 능력은 will be able to."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "다음 중 어색한 문장은?",
+              "choices": [
+                "She can to swim.",
+                "She can swim.",
+                "She can't swim.",
+                "Can she swim?"
+              ],
+              "answer": "She can to swim.",
+              "explain": "can 뒤에는 to 없이 동사원형만 와요."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "'그는 예전에는 못 했지만 지금은 스케이트를 탈 수 있다.'와 어울리는 문장은?",
+              "choices": [
+                "He couldn't skate before, but he can now.",
+                "He can't skate before, but he could now.",
+                "He can skate before, but he couldn't now.",
+                "He couldn't skate before, but he couldn't now."
+              ],
+              "answer": "He couldn't skate before, but he can now.",
+              "explain": "과거는 couldn't, 현재는 can."
+            },
+            {
+              "id": 10,
+              "type": "short",
+              "q": "'Can you to help me?'에서 필요 없는 단어를 쓰시오.",
+              "answer": "to",
+              "explain": "can 뒤에는 to 없이 동사원형."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "다음 중 허가를 나타내는 것은?",
+              "choices": [
+                "Can I borrow your pen?",
+                "I can run fast.",
+                "She can speak English.",
+                "Birds can fly."
+              ],
+              "answer": "Can I borrow your pen?",
+              "explain": "허가를 구하는 의미의 can."
+            },
+            {
+              "id": 12,
+              "type": "short",
+              "q": "'나는 그것을 믿을 수 없다.'를 영어로 쓰시오.",
+              "answer": "I can't believe it.",
+              "explain": "can't+동사원형."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "'그 강아지는 수영을 할 수 있니?'의 올바른 영어는?",
+              "choices": [
+                "Can the dog swim?",
+                "Does the dog can swim?",
+                "Is the dog can swim?",
+                "The dog can swim?"
+              ],
+              "answer": "Can the dog swim?",
+              "explain": "can 의문문은 Can+주어+동사원형?"
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "다음 중 can의 부정형이 아닌 것은?",
+              "choices": [
+                "not can",
+                "can't",
+                "cannot",
+                "can not"
+              ],
+              "answer": "not can",
+              "explain": "부정은 can 뒤에 not을 붙여요."
+            },
+            {
+              "id": 15,
+              "type": "short",
+              "q": "'She was able to solve the problem.'과 같은 뜻이 되도록 could를 사용해 쓰시오.",
+              "answer": "She could solve the problem.",
+              "explain": "could는 was/were able to와 같은 뜻."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "'너는 이 문제를 풀 수 있니?'의 올바른 영어는?",
+              "choices": [
+                "Can you solve this problem?",
+                "Do you can solve this problem?",
+                "Are you can solve this problem?",
+                "You can solve this problem?"
+              ],
+              "answer": "Can you solve this problem?",
+              "explain": "can 의문문."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "다음 중 문법적으로 옳은 문장은?",
+              "choices": [
+                "He can play the guitar well.",
+                "He cans play the guitar well.",
+                "He can plays the guitar well.",
+                "He can to play the guitar well."
+              ],
+              "answer": "He can play the guitar well.",
+              "explain": "can은 형태가 바뀌지 않고 뒤에 동사원형."
+            },
+            {
+              "id": 18,
+              "type": "short",
+              "q": "'Could you please open the door?'에서 could가 나타내는 것은 무엇인가요? (한 단어: 능력/부탁)",
+              "answer": "부탁",
+              "explain": "정중한 부탁을 나타낼 때도 could를 써요."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "'우리는 그 산을 오늘 오를 수 없다.'의 올바른 영어는?",
+              "choices": [
+                "We can't climb the mountain today.",
+                "We don't climb the mountain today.",
+                "We aren't climb the mountain today.",
+                "We can't climbing the mountain today."
+              ],
+              "answer": "We can't climb the mountain today.",
+              "explain": "can't 뒤에는 동사원형."
+            },
+            {
+              "id": 20,
+              "type": "mcq",
+              "q": "다음 중 can의 쓰임이 다른 하나는?",
+              "choices": [
+                "Can I sit here?",
+                "I can lift this box.",
+                "She can speak Spanish.",
+                "He can run fast."
+              ],
+              "answer": "Can I sit here?",
+              "explain": "나머지는 능력, 이것은 허가를 구하는 의미."
+            }
+          ]
+        },
+        "비교급": {
+          "중": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "Tom is ___ than Sam.",
+              "choices": [
+                "taller",
+                "tall",
+                "tallest",
+                "more tall"
+              ],
+              "answer": "taller",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 2,
+              "type": "mcq",
+              "q": "This bag is ___ than that one.",
+              "choices": [
+                "bigger",
+                "big",
+                "biggest",
+                "more big"
+              ],
+              "answer": "bigger",
+              "explain": "짧은 모음+자음은 자음을 하나 더."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "She is ___ than her sister.",
+              "choices": [
+                "younger",
+                "young",
+                "youngest",
+                "more young"
+              ],
+              "answer": "younger",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "This question is ___ than that one.",
+              "choices": [
+                "easier",
+                "easy",
+                "easiest",
+                "more easy"
+              ],
+              "answer": "easier",
+              "explain": "자음+y는 y를 i로 바꾸고 -er."
+            },
+            {
+              "id": 5,
+              "type": "short",
+              "q": "big의 비교급을 쓰시오.",
+              "answer": "bigger",
+              "explain": "짧은 모음+자음은 자음을 하나 더."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "A car is ___ than a bike.",
+              "choices": [
+                "faster",
+                "fast",
+                "fastest",
+                "more fast"
+              ],
+              "answer": "faster",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "This movie is ___ than that one.",
+              "choices": [
+                "more interesting",
+                "interestinger",
+                "interesting",
+                "most interesting"
+              ],
+              "answer": "more interesting",
+              "explain": "긴 형용사는 more+원급."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "He is ___ than me.",
+              "choices": [
+                "stronger",
+                "strong",
+                "strongest",
+                "more strong"
+              ],
+              "answer": "stronger",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 9,
+              "type": "short",
+              "q": "happy의 비교급을 쓰시오.",
+              "answer": "happier",
+              "explain": "자음+y는 y를 i로 바꾸고 -er."
+            },
+            {
+              "id": 10,
+              "type": "mcq",
+              "q": "This book is ___ than that one.",
+              "choices": [
+                "more expensive",
+                "expensiver",
+                "expensive",
+                "most expensive"
+              ],
+              "answer": "more expensive",
+              "explain": "긴 형용사는 more+원급."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "My house is ___ than yours.",
+              "choices": [
+                "smaller",
+                "small",
+                "smallest",
+                "more small"
+              ],
+              "answer": "smaller",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "She sings ___ than him.",
+              "choices": [
+                "better",
+                "gooder",
+                "best",
+                "more good"
+              ],
+              "answer": "better",
+              "explain": "good/well의 비교급은 불규칙 better."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "This is ___ than I thought.",
+              "choices": [
+                "harder",
+                "hard",
+                "hardest",
+                "more hard"
+              ],
+              "answer": "harder",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 14,
+              "type": "short",
+              "q": "large의 비교급을 쓰시오.",
+              "answer": "larger",
+              "explain": "e로 끝나면 -r만 붙여요."
+            },
+            {
+              "id": 15,
+              "type": "mcq",
+              "q": "Winter is ___ than fall.",
+              "choices": [
+                "colder",
+                "cold",
+                "coldest",
+                "more cold"
+              ],
+              "answer": "colder",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "He runs ___ than his brother.",
+              "choices": [
+                "faster",
+                "fast",
+                "fastest",
+                "more fast"
+              ],
+              "answer": "faster",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "This box is ___ than that box.",
+              "choices": [
+                "heavier",
+                "heavy",
+                "heaviest",
+                "more heavy"
+              ],
+              "answer": "heavier",
+              "explain": "자음+y는 y를 i로 바꾸고 -er."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "She is ___ than me at math.",
+              "choices": [
+                "better",
+                "gooder",
+                "best",
+                "well"
+              ],
+              "answer": "better",
+              "explain": "good의 비교급은 불규칙 better."
+            },
+            {
+              "id": 19,
+              "type": "short",
+              "q": "many의 비교급을 쓰시오.",
+              "answer": "more",
+              "explain": "many/much의 비교급은 불규칙 more."
+            },
+            {
+              "id": 20,
+              "type": "mcq",
+              "q": "This road is ___ than that one.",
+              "choices": [
+                "longer",
+                "long",
+                "longest",
+                "more long"
+              ],
+              "answer": "longer",
+              "explain": "짧은 형용사는 -er+than."
+            }
+          ],
+          "상": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "다음 중 비교급이 잘못된 것은?",
+              "choices": [
+                "gooder",
+                "worse",
+                "more famous",
+                "easier"
+              ],
+              "answer": "gooder",
+              "explain": "good의 비교급은 불규칙 better."
+            },
+            {
+              "id": 2,
+              "type": "short",
+              "q": "bad의 비교급을 쓰시오.",
+              "answer": "worse",
+              "explain": "bad의 비교급은 불규칙 worse."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "This cake is ___ than that one.",
+              "choices": [
+                "more delicious",
+                "deliciouser",
+                "delicious",
+                "most delicious"
+              ],
+              "answer": "more delicious",
+              "explain": "긴 형용사는 more+원급."
+            },
+            {
+              "id": 4,
+              "type": "short",
+              "q": "little(양이 적다)의 비교급을 쓰시오.",
+              "answer": "less",
+              "explain": "little의 비교급은 불규칙 less."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "다음 중 옳은 문장은?",
+              "choices": [
+                "She is prettier than her sister.",
+                "She is more pretty than her sister.",
+                "She is pretty than her sister.",
+                "She is prettiest than her sister."
+              ],
+              "answer": "She is prettier than her sister.",
+              "explain": "pretty는 자음+y로 끝나 -ier."
+            },
+            {
+              "id": 6,
+              "type": "short",
+              "q": "'He is famous than her.'에서 빠진 단어를 채우시오.",
+              "answer": "more",
+              "explain": "famous는 긴 형용사라 more가 필요해요."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "다음 중 철자가 옳게 변한 것은?",
+              "choices": [
+                "thinner",
+                "thiner",
+                "thining",
+                "thinest"
+              ],
+              "answer": "thinner",
+              "explain": "짧은 모음+자음은 자음을 하나 더."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "'이 산이 저 산보다 더 위험하다.'의 올바른 영어는?",
+              "choices": [
+                "This mountain is more dangerous than that one.",
+                "This mountain is dangerouser than that one.",
+                "This mountain is danger than that one.",
+                "This mountain is most dangerous than that one."
+              ],
+              "answer": "This mountain is more dangerous than that one.",
+              "explain": "긴 형용사는 more+원급."
+            },
+            {
+              "id": 9,
+              "type": "short",
+              "q": "'Seoul is bigger than Busan.'과 같은 뜻이 되도록 small을 사용해 쓰시오. (Busan이 주어)",
+              "answer": "Busan is smaller than Seoul.",
+              "explain": "비교 방향을 바꾸면 반대말을 써요."
+            },
+            {
+              "id": 10,
+              "type": "mcq",
+              "q": "다음 중 어색한 문장은?",
+              "choices": [
+                "This is more better than that.",
+                "This is better than that.",
+                "This is worse than that.",
+                "This is bigger than that."
+              ],
+              "answer": "This is more better than that.",
+              "explain": "better는 이미 비교급이라 more를 또 붙이지 않아요."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "'너는 나보다 키가 크다.'의 올바른 영어는?",
+              "choices": [
+                "You are taller than me.",
+                "You are more tall than me.",
+                "You are tall than me.",
+                "You are tallest than me."
+              ],
+              "answer": "You are taller than me.",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 12,
+              "type": "short",
+              "q": "far의 비교급을 쓰시오.",
+              "answer": "farther",
+              "explain": "far의 비교급은 불규칙 farther(또는 further)."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "다음 중 옳은 것은?",
+              "choices": [
+                "My score is better than yours.",
+                "My score is more good than yours.",
+                "My score is gooder than yours.",
+                "My score is best than yours."
+              ],
+              "answer": "My score is better than yours.",
+              "explain": "good의 비교급은 better."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "'이 문제가 저 문제보다 더 어렵니?'의 올바른 영어는?",
+              "choices": [
+                "Is this question harder than that one?",
+                "Is this question more hard than that one?",
+                "Is this question hardest than that one?",
+                "This question is harder than that one?"
+              ],
+              "answer": "Is this question harder than that one?",
+              "explain": "비교급 의문문은 Is+주어+비교급+than?"
+            },
+            {
+              "id": 15,
+              "type": "short",
+              "q": "important의 비교급을 쓰시오.",
+              "answer": "more important",
+              "explain": "긴 형용사는 more+원급."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "다음 중 -er 비교급을 쓰지 않는 형용사는?",
+              "choices": [
+                "beautiful",
+                "tall",
+                "fast",
+                "small"
+              ],
+              "answer": "beautiful",
+              "explain": "3음절 이상 형용사는 more를 써요."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "'그의 방이 내 방보다 더 깨끗하다.'의 올바른 영어는?",
+              "choices": [
+                "His room is cleaner than mine.",
+                "His room is more clean than mine.",
+                "His room is clean than mine.",
+                "His room is cleanest than mine."
+              ],
+              "answer": "His room is cleaner than mine.",
+              "explain": "짧은 형용사는 -er+than."
+            },
+            {
+              "id": 18,
+              "type": "short",
+              "q": "'She is smart than me.'에서 빠진 글자를 채워 바르게 고쳐 쓰시오.",
+              "answer": "smarter",
+              "explain": "비교급은 -er을 붙여야 해요."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "다음 중 비교 대상이 바르게 연결된 것은?",
+              "choices": [
+                "A whale is bigger than an elephant.",
+                "A whale bigger an elephant.",
+                "A whale is bigger that an elephant.",
+                "A whale is more big than an elephant."
+              ],
+              "answer": "A whale is bigger than an elephant.",
+              "explain": "비교급 뒤에는 than을 써요."
+            },
+            {
+              "id": 20,
+              "type": "mcq",
+              "q": "'제주도가 서울보다 따뜻하다.'의 올바른 영어는?",
+              "choices": [
+                "Jeju is warmer than Seoul.",
+                "Jeju is more warm than Seoul.",
+                "Jeju is warm than Seoul.",
+                "Jeju is warmest than Seoul."
+              ],
+              "answer": "Jeju is warmer than Seoul.",
+              "explain": "짧은 형용사는 -er+than."
+            }
+          ]
+        },
+        "의문사 의문문": {
+          "중": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "___ is your name?",
+              "choices": [
+                "What",
+                "Where",
+                "When",
+                "Who"
+              ],
+              "answer": "What",
+              "explain": "이름을 물을 때는 What."
+            },
+            {
+              "id": 2,
+              "type": "mcq",
+              "q": "___ do you live?",
+              "choices": [
+                "Where",
+                "What",
+                "When",
+                "Who"
+              ],
+              "answer": "Where",
+              "explain": "장소를 물을 때는 Where."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "___ is your birthday?",
+              "choices": [
+                "When",
+                "Where",
+                "What",
+                "Who"
+              ],
+              "answer": "When",
+              "explain": "시간을 물을 때는 When."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "___ is that girl?",
+              "choices": [
+                "Who",
+                "What",
+                "Where",
+                "When"
+              ],
+              "answer": "Who",
+              "explain": "사람을 물을 때는 Who."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "___ are you late?",
+              "choices": [
+                "Why",
+                "What",
+                "Where",
+                "When"
+              ],
+              "answer": "Why",
+              "explain": "이유를 물을 때는 Why."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "___ do you go to school?",
+              "choices": [
+                "How",
+                "What",
+                "Where",
+                "When"
+              ],
+              "answer": "How",
+              "explain": "방법을 물을 때는 How."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "___ is this?",
+              "choices": [
+                "What",
+                "Who",
+                "Where",
+                "When"
+              ],
+              "answer": "What",
+              "explain": "사물을 물을 때는 What."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "___ does he live?",
+              "choices": [
+                "Where",
+                "What",
+                "When",
+                "Who"
+              ],
+              "answer": "Where",
+              "explain": "장소를 물을 때는 Where."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "___ is your favorite color?",
+              "choices": [
+                "What",
+                "Who",
+                "Where",
+                "When"
+              ],
+              "answer": "What",
+              "explain": "사물/내용을 물을 때는 What."
+            },
+            {
+              "id": 10,
+              "type": "mcq",
+              "q": "___ does the movie start?",
+              "choices": [
+                "When",
+                "Where",
+                "What",
+                "Who"
+              ],
+              "answer": "When",
+              "explain": "시간을 물을 때는 When."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "___ is singing in the room?",
+              "choices": [
+                "Who",
+                "What",
+                "Where",
+                "When"
+              ],
+              "answer": "Who",
+              "explain": "Who가 주어 역할을 해요."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "___ are you crying?",
+              "choices": [
+                "Why",
+                "What",
+                "Where",
+                "When"
+              ],
+              "answer": "Why",
+              "explain": "이유를 물을 때는 Why."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "How ___ are you?",
+              "choices": [
+                "old",
+                "what",
+                "where",
+                "when"
+              ],
+              "answer": "old",
+              "explain": "How old ~?는 나이를 물어요."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "___ do you spell your name?",
+              "choices": [
+                "How",
+                "What",
+                "Where",
+                "When"
+              ],
+              "answer": "How",
+              "explain": "방법을 물을 때는 How."
+            },
+            {
+              "id": 15,
+              "type": "short",
+              "q": "'너는 어디에 사니?'를 영어로 쓰시오.",
+              "answer": "Where do you live?",
+              "explain": "장소는 Where로 물어요."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "___ is your best friend?",
+              "choices": [
+                "Who",
+                "What",
+                "Where",
+                "When"
+              ],
+              "answer": "Who",
+              "explain": "사람을 물을 때는 Who."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "___ did you do yesterday?",
+              "choices": [
+                "What",
+                "Where",
+                "When",
+                "Who"
+              ],
+              "answer": "What",
+              "explain": "내용을 물을 때는 What."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "___ is the weather like today?",
+              "choices": [
+                "What",
+                "How",
+                "Where",
+                "When"
+              ],
+              "answer": "What",
+              "explain": "What ~ is like?는 상태를 물어요."
+            },
+            {
+              "id": 19,
+              "type": "short",
+              "q": "'그는 언제 오니?'를 영어로 쓰시오.",
+              "answer": "When does he come?",
+              "explain": "시간은 When으로 물어요."
+            },
+            {
+              "id": 20,
+              "type": "mcq",
+              "q": "How ___ books do you have?",
+              "choices": [
+                "many",
+                "much",
+                "far",
+                "long"
+              ],
+              "answer": "many",
+              "explain": "How many+복수명사."
+            }
+          ],
+          "상": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "'누가 이 케이크를 만들었니?'의 올바른 영어는?",
+              "choices": [
+                "Who made this cake?",
+                "Who did make this cake?",
+                "Who does make this cake?",
+                "Who making this cake?"
+              ],
+              "answer": "Who made this cake?",
+              "explain": "Who가 주어일 때는 do/does 없이 바로 동사."
+            },
+            {
+              "id": 2,
+              "type": "mcq",
+              "q": "'Where does she is from?'에서 틀린 부분을 고치면?",
+              "choices": [
+                "Where is she from?",
+                "Where does she from?",
+                "Where she is from?",
+                "Where is she is from?"
+              ],
+              "answer": "Where is she from?",
+              "explain": "be동사 문장은 do/does를 쓰지 않아요."
+            },
+            {
+              "id": 3,
+              "type": "short",
+              "q": "'그는 왜 늦었니?'를 영어로 쓰시오. (과거형)",
+              "answer": "Why was he late?",
+              "explain": "과거 be동사 의문문."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "How ___ is this shirt?",
+              "choices": [
+                "much",
+                "many",
+                "far",
+                "long"
+              ],
+              "answer": "much",
+              "explain": "가격을 물을 때는 How much."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "다음 중 옳은 질문은?",
+              "choices": [
+                "What did you buy yesterday?",
+                "What you did buy yesterday?",
+                "What did you bought yesterday?",
+                "What do you buy yesterday?"
+              ],
+              "answer": "What did you buy yesterday?",
+              "explain": "did 뒤에는 동사원형."
+            },
+            {
+              "id": 6,
+              "type": "short",
+              "q": "'무슨 일이 일어났니?'를 영어로 쓰시오. (What이 주어)",
+              "answer": "What happened?",
+              "explain": "What이 주어일 때는 do 없이 바로 동사."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "How ___ do you exercise?",
+              "choices": [
+                "often",
+                "many",
+                "much",
+                "long"
+              ],
+              "answer": "often",
+              "explain": "빈도를 물을 때는 How often."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "How ___ is it from here to the station?",
+              "choices": [
+                "far",
+                "long",
+                "much",
+                "many"
+              ],
+              "answer": "far",
+              "explain": "거리를 물을 때는 How far."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "How ___ does it take to get there?",
+              "choices": [
+                "long",
+                "far",
+                "much",
+                "many"
+              ],
+              "answer": "long",
+              "explain": "걸리는 시간은 How long."
+            },
+            {
+              "id": 10,
+              "type": "short",
+              "q": "'너는 누구를 기다리고 있니?'를 영어로 쓰시오. (진행형)",
+              "answer": "Who are you waiting for?",
+              "explain": "진행형 의문문에 Who를 결합."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "다음 중 어색한 질문은?",
+              "choices": [
+                "This bag is whose?",
+                "Whose is this bag?",
+                "Whose bag is this?",
+                "Who does this bag belong to?"
+              ],
+              "answer": "This bag is whose?",
+              "explain": "의문사는 문장 맨 앞에 와야 해요."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "'네 여동생은 무엇을 좋아하니?'의 올바른 영어는?",
+              "choices": [
+                "What does your sister like?",
+                "What is your sister like?",
+                "What your sister likes?",
+                "What does your sister likes?"
+              ],
+              "answer": "What does your sister like?",
+              "explain": "좋아하는 것을 물을 때는 What does ~ like?"
+            },
+            {
+              "id": 13,
+              "type": "short",
+              "q": "'그들은 어디서 만났니?'를 영어로 쓰시오. (과거형)",
+              "answer": "Where did they meet?",
+              "explain": "과거 의문문은 did+동사원형."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "How ___ brothers do you have?",
+              "choices": [
+                "many",
+                "much",
+                "long",
+                "far"
+              ],
+              "answer": "many",
+              "explain": "개수를 물을 때는 How many."
+            },
+            {
+              "id": 15,
+              "type": "mcq",
+              "q": "다음 중 대답과 어울리지 않는 질문은?",
+              "choices": [
+                "When is your birthday? — I'm 12.",
+                "Where do you live? — In Seoul.",
+                "What is this? — It's a pen.",
+                "Who is she? — She is my sister."
+              ],
+              "answer": "When is your birthday? — I'm 12.",
+              "explain": "When에는 시간/날짜로 답해야 해요."
+            },
+            {
+              "id": 16,
+              "type": "short",
+              "q": "'그 영화는 어땠니?'를 영어로 쓰시오. (How 사용)",
+              "answer": "How was the movie?",
+              "explain": "How는 상태나 느낌을 물어요."
+            },
+            {
+              "id": 17,
+              "type": "short",
+              "q": "'Who do made the mistake?'에서 필요 없는 단어를 쓰시오.",
+              "answer": "do",
+              "explain": "Who가 주어일 때는 do가 필요 없어요."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "다음 중 주어를 묻는 의문사 질문은?",
+              "choices": [
+                "Who broke the window?",
+                "Who did you see?",
+                "What did you buy?",
+                "Where did you go?"
+              ],
+              "answer": "Who broke the window?",
+              "explain": "Who가 문장의 주어 역할을 해요."
+            },
+            {
+              "id": 19,
+              "type": "short",
+              "q": "'너는 왜 그렇게 생각하니?'를 영어로 쓰시오.",
+              "answer": "Why do you think so?",
+              "explain": "이유는 Why로 물어요."
+            },
+            {
+              "id": 20,
+              "type": "mcq",
+              "q": "'네 취미가 뭐니?'의 올바른 영어는?",
+              "choices": [
+                "What is your hobby?",
+                "What your hobby is?",
+                "What do your hobby?",
+                "What is hobby your?"
+              ],
+              "answer": "What is your hobby?",
+              "explain": "What is your ~?의 순서로 물어요."
+            }
+          ]
+        },
+        "미래표현 be going to": {
+          "중": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "I ___ visit my grandmother this weekend.",
+              "choices": [
+                "am going to",
+                "is going to",
+                "are going to",
+                "go to"
+              ],
+              "answer": "am going to",
+              "explain": "I는 am going to."
+            },
+            {
+              "id": 2,
+              "type": "mcq",
+              "q": "She ___ study abroad next year.",
+              "choices": [
+                "is going to",
+                "am going to",
+                "are going to",
+                "go to"
+              ],
+              "answer": "is going to",
+              "explain": "she는 is going to."
+            },
+            {
+              "id": 3,
+              "type": "mcq",
+              "q": "They ___ travel to Jeju this summer.",
+              "choices": [
+                "are going to",
+                "is going to",
+                "am going to",
+                "go to"
+              ],
+              "answer": "are going to",
+              "explain": "they는 are going to."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "He ___ buy a new bike.",
+              "choices": [
+                "is going to",
+                "am going to",
+                "are going to",
+                "go to"
+              ],
+              "answer": "is going to",
+              "explain": "he는 is going to."
+            },
+            {
+              "id": 5,
+              "type": "mcq",
+              "q": "We ___ have a party tomorrow.",
+              "choices": [
+                "are going to",
+                "is going to",
+                "am going to",
+                "go to"
+              ],
+              "answer": "are going to",
+              "explain": "we는 are going to."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "___ you going to come to the party?",
+              "choices": [
+                "Are",
+                "Is",
+                "Am",
+                "Do"
+              ],
+              "answer": "Are",
+              "explain": "you는 Are로 물어요."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "It ___ going to rain tomorrow.",
+              "choices": [
+                "is",
+                "are",
+                "am",
+                "does"
+              ],
+              "answer": "is",
+              "explain": "it은 is going to."
+            },
+            {
+              "id": 8,
+              "type": "mcq",
+              "q": "I ___ not going to watch TV tonight.",
+              "choices": [
+                "am",
+                "is",
+                "are",
+                "do"
+              ],
+              "answer": "am",
+              "explain": "I는 am not going to."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "___ she going to join us?",
+              "choices": [
+                "Is",
+                "Are",
+                "Am",
+                "Does"
+              ],
+              "answer": "Is",
+              "explain": "she는 Is로 물어요."
+            },
+            {
+              "id": 10,
+              "type": "short",
+              "q": "'나는 내일 도서관에 갈 예정이다.'를 영어로 쓰시오.",
+              "answer": "I am going to go to the library tomorrow.",
+              "explain": "be going to+동사원형."
+            },
+            {
+              "id": 11,
+              "type": "mcq",
+              "q": "He ___ going to play soccer after school.",
+              "choices": [
+                "is",
+                "are",
+                "am",
+                "does"
+              ],
+              "answer": "is",
+              "explain": "he는 is going to."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "They ___ not going to move to a new house.",
+              "choices": [
+                "are",
+                "is",
+                "am",
+                "does"
+              ],
+              "answer": "are",
+              "explain": "they는 are not going to."
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "What ___ you going to do this weekend?",
+              "choices": [
+                "are",
+                "is",
+                "am",
+                "do"
+              ],
+              "answer": "are",
+              "explain": "you는 are going to."
+            },
+            {
+              "id": 14,
+              "type": "mcq",
+              "q": "My family ___ going to have dinner out tonight.",
+              "choices": [
+                "is",
+                "are",
+                "am",
+                "do"
+              ],
+              "answer": "is",
+              "explain": "family는 단수 취급하는 경우 is."
+            },
+            {
+              "id": 15,
+              "type": "short",
+              "q": "'그는 내년에 중학교에 갈 것이다.'를 영어로 쓰시오.",
+              "answer": "He is going to go to middle school next year.",
+              "explain": "be going to+동사원형."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "We ___ going to watch a movie tonight.",
+              "choices": [
+                "are",
+                "is",
+                "am",
+                "do"
+              ],
+              "answer": "are",
+              "explain": "we는 are going to."
+            },
+            {
+              "id": 17,
+              "type": "mcq",
+              "q": "___ it going to snow this winter?",
+              "choices": [
+                "Is",
+                "Are",
+                "Am",
+                "Does"
+              ],
+              "answer": "Is",
+              "explain": "it은 Is로 물어요."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "I ___ going to take a trip next month.",
+              "choices": [
+                "am",
+                "is",
+                "are",
+                "do"
+              ],
+              "answer": "am",
+              "explain": "I는 am going to."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "She ___ going to bake cookies for us.",
+              "choices": [
+                "is",
+                "are",
+                "am",
+                "do"
+              ],
+              "answer": "is",
+              "explain": "she는 is going to."
+            },
+            {
+              "id": 20,
+              "type": "short",
+              "q": "'너희는 이번 방학에 뭐 할 거니?'를 영어로 쓰시오. (be going to 사용)",
+              "answer": "What are you going to do this vacation?",
+              "explain": "be going to 의문문."
+            }
+          ],
+          "상": [
+            {
+              "id": 1,
+              "type": "mcq",
+              "q": "다음 중 즉흥적인 결정을 나타내는 것은?",
+              "choices": [
+                "I'll get it! (전화벨이 울릴 때)",
+                "I am going to visit Paris next year.",
+                "She is going to have a baby.",
+                "We are going to move next month."
+              ],
+              "answer": "I'll get it! (전화벨이 울릴 때)",
+              "explain": "will은 그 자리에서 결정한 일에 써요."
+            },
+            {
+              "id": 2,
+              "type": "mcq",
+              "q": "'구름을 보니 비가 올 것 같다.'와 어울리는 표현은?",
+              "choices": [
+                "It's going to rain.",
+                "It will rain suddenly.",
+                "It rains going to.",
+                "It is rain going to."
+              ],
+              "answer": "It's going to rain.",
+              "explain": "현재 근거로 예측할 때는 be going to."
+            },
+            {
+              "id": 3,
+              "type": "short",
+              "q": "'She is go to travel next week.'에서 빠진 단어를 채우시오.",
+              "answer": "going",
+              "explain": "be going to의 형태를 완성해야 해요."
+            },
+            {
+              "id": 4,
+              "type": "mcq",
+              "q": "'우리는 다음 주에 이사하지 않을 것이다.'의 올바른 영어는?",
+              "choices": [
+                "We are not going to move next week.",
+                "We not going to move next week.",
+                "We don't going to move next week.",
+                "We aren't going to moving next week."
+              ],
+              "answer": "We are not going to move next week.",
+              "explain": "부정문은 be동사+not+going to."
+            },
+            {
+              "id": 5,
+              "type": "short",
+              "q": "'Is you going to help me?'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "Are",
+              "explain": "you는 Are를 써요."
+            },
+            {
+              "id": 6,
+              "type": "mcq",
+              "q": "다음 중 문법적으로 옳은 문장은?",
+              "choices": [
+                "He is going to fix the car.",
+                "He going to fix the car.",
+                "He is go to fix the car.",
+                "He is going fix the car."
+              ],
+              "answer": "He is going to fix the car.",
+              "explain": "be동사를 빠뜨리면 안 돼요."
+            },
+            {
+              "id": 7,
+              "type": "mcq",
+              "q": "'너 오늘 저녁에 뭐 할 거니?'의 올바른 영어는?",
+              "choices": [
+                "What are you going to do tonight?",
+                "What you are going to do tonight?",
+                "What do you going to do tonight?",
+                "What are you go to do tonight?"
+              ],
+              "answer": "What are you going to do tonight?",
+              "explain": "의문사+be동사+주어+going to+동사원형?"
+            },
+            {
+              "id": 8,
+              "type": "short",
+              "q": "'They will call you soon.'을 부정문으로 바꿔 쓰시오.",
+              "answer": "They will not call you soon.",
+              "explain": "will의 부정은 will not(won't)."
+            },
+            {
+              "id": 9,
+              "type": "mcq",
+              "q": "다음 중 어색한 문장은?",
+              "choices": [
+                "I am going to be doctor.",
+                "I am going to be a doctor.",
+                "I am going to become a doctor.",
+                "I am going to study medicine."
+              ],
+              "answer": "I am going to be doctor.",
+              "explain": "직업 명사 앞에는 관사 a가 필요해요."
+            },
+            {
+              "id": 10,
+              "type": "mcq",
+              "q": "'그 팀은 이번 경기에서 이길 것 같다.'와 어울리는 것은?",
+              "choices": [
+                "The team is going to win this game.",
+                "The team will win this game suddenly.",
+                "The team going to win this game.",
+                "The team is win going to this game."
+              ],
+              "answer": "The team is going to win this game.",
+              "explain": "현재 상황을 근거로 한 예측은 be going to."
+            },
+            {
+              "id": 11,
+              "type": "short",
+              "q": "'Are they going to came tomorrow?'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "come",
+              "explain": "going to 뒤에는 동사원형."
+            },
+            {
+              "id": 12,
+              "type": "mcq",
+              "q": "다음 중 미래 계획을 나타내는 의문문으로 옳은 것은?",
+              "choices": [
+                "Is he going to join the club?",
+                "Does he going to join the club?",
+                "Is he go to join the club?",
+                "He is going to join the club?"
+              ],
+              "answer": "Is he going to join the club?",
+              "explain": "be동사+주어+going to+동사원형?"
+            },
+            {
+              "id": 13,
+              "type": "mcq",
+              "q": "'나는 오늘 밤 외식할 계획이 없다.'의 올바른 영어는?",
+              "choices": [
+                "I am not going to eat out tonight.",
+                "I don't going to eat out tonight.",
+                "I am not go to eat out tonight.",
+                "I not going to eat out tonight."
+              ],
+              "answer": "I am not going to eat out tonight.",
+              "explain": "부정문은 be동사+not+going to."
+            },
+            {
+              "id": 14,
+              "type": "short",
+              "q": "'We are going to have a test tomorrow.'를 의문문으로 바꿔 쓰시오.",
+              "answer": "Are we going to have a test tomorrow?",
+              "explain": "be동사를 문장 맨 앞으로."
+            },
+            {
+              "id": 15,
+              "type": "mcq",
+              "q": "다음 중 be going to 뒤에 오는 형태로 옳은 것은?",
+              "choices": [
+                "동사원형",
+                "동사+ing",
+                "동사+ed",
+                "동사+s"
+              ],
+              "answer": "동사원형",
+              "explain": "be going to+동사원형."
+            },
+            {
+              "id": 16,
+              "type": "mcq",
+              "q": "'내일 눈이 올까요?'의 올바른 영어는?",
+              "choices": [
+                "Is it going to snow tomorrow?",
+                "Does it going to snow tomorrow?",
+                "Is it go to snow tomorrow?",
+                "It is going to snow tomorrow?"
+              ],
+              "answer": "Is it going to snow tomorrow?",
+              "explain": "be동사+주어+going to+동사원형?"
+            },
+            {
+              "id": 17,
+              "type": "short",
+              "q": "'그녀는 다음 달에 결혼할 예정이다.'를 영어로 쓰시오.",
+              "answer": "She is going to get married next month.",
+              "explain": "be going to+동사원형."
+            },
+            {
+              "id": 18,
+              "type": "mcq",
+              "q": "다음 중 옳은 것은?",
+              "choices": [
+                "We are going to meet at 3 o'clock.",
+                "We is going to meet at 3 o'clock.",
+                "We going to meet at 3 o'clock.",
+                "We are go to meet at 3 o'clock."
+              ],
+              "answer": "We are going to meet at 3 o'clock.",
+              "explain": "we는 are going to."
+            },
+            {
+              "id": 19,
+              "type": "mcq",
+              "q": "'네 계획이 뭐니, 이번 방학에?'의 올바른 영어는?",
+              "choices": [
+                "What are you going to do this vacation?",
+                "What you going to do this vacation?",
+                "What is you going to do this vacation?",
+                "What are going to you do this vacation?"
+              ],
+              "answer": "What are you going to do this vacation?",
+              "explain": "의문사+be동사+주어+going to+동사원형?"
+            },
+            {
+              "id": 20,
+              "type": "short",
+              "q": "'He is not going to come.'과 같은 뜻이지만 will을 사용해 다시 쓰시오.",
+              "answer": "He will not come.",
+              "explain": "will not(won't)도 미래 부정을 나타내요."
             }
           ]
         }
