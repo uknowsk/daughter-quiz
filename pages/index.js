@@ -109,6 +109,10 @@ export default function Home({ student, userId, bundle }) {
             <span style={{ fontSize: 12, background: "#e7f0ff", color: "#1e5bd6", padding: "3px 8px", borderRadius: 12 }}>
               ✨ AI가 오늘 만든 문제{data.unit ? ` · 단원: ${data.unit}` : ""}
             </span>
+          ) : data.source === "bank" ? (
+            <span style={{ fontSize: 12, background: "#eafbe7", color: "#1e8a3d", padding: "3px 8px", borderRadius: 12 }}>
+              📦 미리 준비된 문제{data.unit ? ` · 단원: ${data.unit}` : ""}
+            </span>
           ) : (
             <span style={{ fontSize: 12, background: "#eee", color: "#666", padding: "3px 8px", borderRadius: 12 }}>
               📚 문제은행 문제
