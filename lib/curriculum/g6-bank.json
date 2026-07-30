@@ -402,7 +402,7 @@
               "choices": [
                 "7/2",
                 "3/7",
-                "7/2",
+                "5/2",
                 "7"
               ],
               "answer": "7/2",
@@ -8117,6 +8117,502 @@
               "q": "fix의 3인칭 단수형(He ___)을 쓰시오.",
               "answer": "fixes",
               "explain": "x로 끝나면 -es를 붙여요."
+            },
+            {
+              "id": 21,
+              "type": "mcq",
+              "q": "My aunt ___ flowers in her garden.",
+              "choices": [
+                "grows",
+                "grow",
+                "growing",
+                "grew"
+              ],
+              "answer": "grows",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 22,
+              "type": "mcq",
+              "q": "The teacher ___ math very well.",
+              "choices": [
+                "teaches",
+                "teach",
+                "teachs",
+                "teaching"
+              ],
+              "answer": "teaches",
+              "explain": "ch로 끝나면 -es."
+            },
+            {
+              "id": 23,
+              "type": "mcq",
+              "q": "He ___ his dog every morning.",
+              "choices": [
+                "feeds",
+                "feed",
+                "feeding",
+                "fed"
+              ],
+              "answer": "feeds",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 24,
+              "type": "mcq",
+              "q": "She ___ letters to her pen pal.",
+              "choices": [
+                "writes",
+                "write",
+                "writing",
+                "wrote"
+              ],
+              "answer": "writes",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 25,
+              "type": "mcq",
+              "q": "The bird ___ sweetly in the morning.",
+              "choices": [
+                "sings",
+                "sing",
+                "singing",
+                "sang"
+              ],
+              "answer": "sings",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 26,
+              "type": "mcq",
+              "q": "My grandpa ___ newspapers every day.",
+              "choices": [
+                "reads",
+                "read",
+                "reading",
+                "readed"
+              ],
+              "answer": "reads",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 27,
+              "type": "mcq",
+              "q": "The shop ___ early on Sundays.",
+              "choices": [
+                "closes",
+                "close",
+                "closing",
+                "closed"
+              ],
+              "answer": "closes",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 28,
+              "type": "mcq",
+              "q": "He ___ his car every weekend.",
+              "choices": [
+                "washes",
+                "wash",
+                "washs",
+                "washing"
+              ],
+              "answer": "washes",
+              "explain": "sh로 끝나면 -es."
+            },
+            {
+              "id": 29,
+              "type": "mcq",
+              "q": "She ___ the violin beautifully.",
+              "choices": [
+                "plays",
+                "play",
+                "playes",
+                "playing"
+              ],
+              "answer": "plays",
+              "explain": "모음+y는 그대로 -s."
+            },
+            {
+              "id": 30,
+              "type": "short",
+              "q": "mix의 3인칭 단수형(He ___)을 쓰시오.",
+              "answer": "mixes",
+              "explain": "x로 끝나면 -es."
+            },
+            {
+              "id": 31,
+              "type": "mcq",
+              "q": "My friend ___ to school with me.",
+              "choices": [
+                "walks",
+                "walk",
+                "walking",
+                "walked"
+              ],
+              "answer": "walks",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 32,
+              "type": "mcq",
+              "q": "The chef ___ delicious food.",
+              "choices": [
+                "cooks",
+                "cook",
+                "cooking",
+                "cooked"
+              ],
+              "answer": "cooks",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 33,
+              "type": "mcq",
+              "q": "She ___ not eat meat.",
+              "choices": [
+                "does",
+                "do",
+                "is",
+                "are"
+              ],
+              "answer": "does",
+              "explain": "3인칭 단수 부정은 does not."
+            },
+            {
+              "id": 34,
+              "type": "mcq",
+              "q": "___ he speak Korean?",
+              "choices": [
+                "Does",
+                "Do",
+                "Is",
+                "Are"
+              ],
+              "answer": "Does",
+              "explain": "3인칭 단수 의문문."
+            },
+            {
+              "id": 35,
+              "type": "mcq",
+              "q": "My sister ___ her homework by herself.",
+              "choices": [
+                "does",
+                "do",
+                "doing",
+                "did"
+              ],
+              "answer": "does",
+              "explain": "do 동사의 3인칭 단수형."
+            },
+            {
+              "id": 36,
+              "type": "mcq",
+              "q": "The library ___ at 6 p.m.",
+              "choices": [
+                "closes",
+                "close",
+                "closing",
+                "closed"
+              ],
+              "answer": "closes",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 37,
+              "type": "mcq",
+              "q": "He ___ his room every day.",
+              "choices": [
+                "cleans",
+                "clean",
+                "cleaning",
+                "cleaned"
+              ],
+              "answer": "cleans",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 38,
+              "type": "short",
+              "q": "catch의 3인칭 단수형(She ___)을 쓰시오.",
+              "answer": "catches",
+              "explain": "ch로 끝나면 -es."
+            },
+            {
+              "id": 39,
+              "type": "mcq",
+              "q": "My mom ___ us a bedtime story.",
+              "choices": [
+                "tells",
+                "tell",
+                "telling",
+                "told"
+              ],
+              "answer": "tells",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 40,
+              "type": "mcq",
+              "q": "The train ___ at 8 o'clock.",
+              "choices": [
+                "leaves",
+                "leave",
+                "leaving",
+                "left"
+              ],
+              "answer": "leaves",
+              "explain": "e로 끝나면 그냥 -s."
+            },
+            {
+              "id": 41,
+              "type": "mcq",
+              "q": "She ___ swimming every summer.",
+              "choices": [
+                "goes",
+                "go",
+                "going",
+                "went"
+              ],
+              "answer": "goes",
+              "explain": "go의 3인칭 단수형은 goes."
+            },
+            {
+              "id": 42,
+              "type": "mcq",
+              "q": "He ___ a lot of books.",
+              "choices": [
+                "has",
+                "have",
+                "haves",
+                "having"
+              ],
+              "answer": "has",
+              "explain": "have의 3인칭 단수형은 불규칙 has."
+            },
+            {
+              "id": 43,
+              "type": "mcq",
+              "q": "My uncle ___ jokes all the time.",
+              "choices": [
+                "tells",
+                "tell",
+                "telling",
+                "told"
+              ],
+              "answer": "tells",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 44,
+              "type": "mcq",
+              "q": "The store ___ many toys.",
+              "choices": [
+                "sells",
+                "sell",
+                "selling",
+                "sold"
+              ],
+              "answer": "sells",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 45,
+              "type": "mcq",
+              "q": "She ___ the piano every afternoon.",
+              "choices": [
+                "practices",
+                "practice",
+                "practicing",
+                "practiced"
+              ],
+              "answer": "practices",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 46,
+              "type": "short",
+              "q": "worry의 3인칭 단수형(She ___)을 쓰시오.",
+              "answer": "worries",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 47,
+              "type": "mcq",
+              "q": "He ___ to the gym three times a week.",
+              "choices": [
+                "goes",
+                "go",
+                "going",
+                "went"
+              ],
+              "answer": "goes",
+              "explain": "go의 3인칭 단수형은 goes."
+            },
+            {
+              "id": 48,
+              "type": "mcq",
+              "q": "The baby ___ a lot at night.",
+              "choices": [
+                "cries",
+                "cry",
+                "crying",
+                "cried"
+              ],
+              "answer": "cries",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 49,
+              "type": "mcq",
+              "q": "My dad ___ the car to work.",
+              "choices": [
+                "drives",
+                "drive",
+                "driving",
+                "drove"
+              ],
+              "answer": "drives",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 50,
+              "type": "mcq",
+              "q": "She ___ her plants every morning.",
+              "choices": [
+                "waters",
+                "water",
+                "watering",
+                "watered"
+              ],
+              "answer": "waters",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 51,
+              "type": "mcq",
+              "q": "He ___ his teeth after every meal.",
+              "choices": [
+                "brushes",
+                "brush",
+                "brushs",
+                "brushing"
+              ],
+              "answer": "brushes",
+              "explain": "sh로 끝나면 -es."
+            },
+            {
+              "id": 52,
+              "type": "mcq",
+              "q": "The dog ___ the ball.",
+              "choices": [
+                "catches",
+                "catch",
+                "catchs",
+                "catching"
+              ],
+              "answer": "catches",
+              "explain": "ch로 끝나면 -es."
+            },
+            {
+              "id": 53,
+              "type": "mcq",
+              "q": "My brother ___ his bike to school.",
+              "choices": [
+                "rides",
+                "ride",
+                "riding",
+                "rode"
+              ],
+              "answer": "rides",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 54,
+              "type": "mcq",
+              "q": "She ___ not drink coffee.",
+              "choices": [
+                "does",
+                "do",
+                "is",
+                "are"
+              ],
+              "answer": "does",
+              "explain": "3인칭 단수 부정은 does not."
+            },
+            {
+              "id": 55,
+              "type": "mcq",
+              "q": "___ your mom cook Italian food?",
+              "choices": [
+                "Does",
+                "Do",
+                "Is",
+                "Are"
+              ],
+              "answer": "Does",
+              "explain": "3인칭 단수 의문문."
+            },
+            {
+              "id": 56,
+              "type": "short",
+              "q": "push의 3인칭 단수형(He ___)을 쓰시오.",
+              "answer": "pushes",
+              "explain": "sh로 끝나면 -es."
+            },
+            {
+              "id": 57,
+              "type": "mcq",
+              "q": "The clock ___ every hour.",
+              "choices": [
+                "rings",
+                "ring",
+                "ringing",
+                "rang"
+              ],
+              "answer": "rings",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 58,
+              "type": "mcq",
+              "q": "My grandma ___ delicious cookies.",
+              "choices": [
+                "bakes",
+                "bake",
+                "baking",
+                "baked"
+              ],
+              "answer": "bakes",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 59,
+              "type": "mcq",
+              "q": "He ___ his homework quickly.",
+              "choices": [
+                "finishes",
+                "finish",
+                "finishs",
+                "finishing"
+              ],
+              "answer": "finishes",
+              "explain": "sh로 끝나면 -es."
+            },
+            {
+              "id": 60,
+              "type": "mcq",
+              "q": "She ___ three cats at home.",
+              "choices": [
+                "has",
+                "have",
+                "haves",
+                "having"
+              ],
+              "answer": "has",
+              "explain": "have의 3인칭 단수형은 불규칙 has."
             }
           ],
           "상": [
@@ -8343,6 +8839,448 @@
               "q": "'Does she likes music?'에서 틀린 동사를 바르게 고쳐 쓰시오.",
               "answer": "like",
               "explain": "Does 뒤에는 동사원형(likes가 아니라 like)."
+            },
+            {
+              "id": 21,
+              "type": "short",
+              "q": "mix의 3인칭 단수형(It ___)을 쓰시오.",
+              "answer": "mixes",
+              "explain": "x로 끝나면 -es."
+            },
+            {
+              "id": 22,
+              "type": "mcq",
+              "q": "다음 중 3인칭 단수형이 잘못된 것은?",
+              "choices": [
+                "teachs",
+                "catches",
+                "fixes",
+                "washes"
+              ],
+              "answer": "teachs",
+              "explain": "teach는 teaches가 맞아요."
+            },
+            {
+              "id": 23,
+              "type": "mcq",
+              "q": "He doesn't ___ vegetables.",
+              "choices": [
+                "eat",
+                "eats",
+                "ate",
+                "eating"
+              ],
+              "answer": "eat",
+              "explain": "doesn't 뒤에는 동사원형."
+            },
+            {
+              "id": 24,
+              "type": "mcq",
+              "q": "___ she have a car?",
+              "choices": [
+                "Does",
+                "Do",
+                "Is",
+                "Has"
+              ],
+              "answer": "Does",
+              "explain": "have의 의문문도 Does를 써요."
+            },
+            {
+              "id": 25,
+              "type": "short",
+              "q": "'He don't like milk.'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "doesn't",
+              "explain": "3인칭 단수 부정은 doesn't."
+            },
+            {
+              "id": 26,
+              "type": "mcq",
+              "q": "The baby ___ every night.",
+              "choices": [
+                "cries",
+                "cry",
+                "crying",
+                "cried"
+              ],
+              "answer": "cries",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 27,
+              "type": "mcq",
+              "q": "다음 중 옳은 문장은?",
+              "choices": [
+                "She has two dogs.",
+                "She haves two dogs.",
+                "She have two dogs.",
+                "She having two dogs."
+              ],
+              "answer": "She has two dogs.",
+              "explain": "have의 3인칭 단수는 has."
+            },
+            {
+              "id": 28,
+              "type": "short",
+              "q": "'Does he goes to school by bus?'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "go",
+              "explain": "Does 뒤에는 동사원형."
+            },
+            {
+              "id": 29,
+              "type": "mcq",
+              "q": "My sister never ___ her room.",
+              "choices": [
+                "cleans",
+                "clean",
+                "cleaning",
+                "cleaned"
+              ],
+              "answer": "cleans",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 30,
+              "type": "short",
+              "q": "carry의 3인칭 단수형(He ___)을 쓰시오.",
+              "answer": "carries",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 31,
+              "type": "mcq",
+              "q": "다음 중 3인칭 단수형이 옳은 것은?",
+              "choices": [
+                "flies",
+                "flys",
+                "fliees",
+                "fly's"
+              ],
+              "answer": "flies",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 32,
+              "type": "mcq",
+              "q": "It ___ not rain much in summer here.",
+              "choices": [
+                "does",
+                "do",
+                "is",
+                "has"
+              ],
+              "answer": "does",
+              "explain": "3인칭 단수 부정은 does not."
+            },
+            {
+              "id": 33,
+              "type": "mcq",
+              "q": "'그녀는 매일 아침 조깅을 한다.'의 올바른 영어는?",
+              "choices": [
+                "She jogs every morning.",
+                "She jog every morning.",
+                "She is jog every morning.",
+                "She jogging every morning."
+              ],
+              "answer": "She jogs every morning.",
+              "explain": "3인칭 단수는 jogs."
+            },
+            {
+              "id": 34,
+              "type": "short",
+              "q": "'The machine mixs the ingredients.'에서 철자가 틀린 단어를 바르게 고치면?",
+              "answer": "mixes",
+              "explain": "x로 끝나면 -es."
+            },
+            {
+              "id": 35,
+              "type": "mcq",
+              "q": "다음 중 어색한 문장은?",
+              "choices": [
+                "He don't like spicy food.",
+                "He doesn't like spicy food.",
+                "She doesn't like spicy food.",
+                "It doesn't rain much here."
+              ],
+              "answer": "He don't like spicy food.",
+              "explain": "3인칭 단수 부정은 doesn't."
+            },
+            {
+              "id": 36,
+              "type": "mcq",
+              "q": "'그 가게는 일요일마다 문을 닫니?'의 올바른 영어는?",
+              "choices": [
+                "Does the store close on Sundays?",
+                "Do the store close on Sundays?",
+                "Is the store close on Sundays?",
+                "The store closes on Sundays?"
+              ],
+              "answer": "Does the store close on Sundays?",
+              "explain": "3인칭 단수 의문문."
+            },
+            {
+              "id": 37,
+              "type": "short",
+              "q": "'She study English every day.'에서 틀린 동사를 바르게 고쳐 쓰시오.",
+              "answer": "studies",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 38,
+              "type": "mcq",
+              "q": "다음 중 have의 3인칭 단수형으로 옳은 것은?",
+              "choices": [
+                "has",
+                "haves",
+                "haing",
+                "haved"
+              ],
+              "answer": "has",
+              "explain": "have의 3인칭 단수형은 불규칙 has."
+            },
+            {
+              "id": 39,
+              "type": "mcq",
+              "q": "He rarely ___ breakfast.",
+              "choices": [
+                "skips",
+                "skip",
+                "skipping",
+                "skipped"
+              ],
+              "answer": "skips",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 40,
+              "type": "short",
+              "q": "'Her brother don't play soccer.'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "doesn't",
+              "explain": "3인칭 단수 부정은 doesn't."
+            },
+            {
+              "id": 41,
+              "type": "mcq",
+              "q": "다음 중 3인칭 단수 의문문으로 옳은 것은?",
+              "choices": [
+                "Does she like ice cream?",
+                "Do she like ice cream?",
+                "Is she like ice cream?",
+                "She does like ice cream?"
+              ],
+              "answer": "Does she like ice cream?",
+              "explain": "3인칭 단수 의문문은 Does로."
+            },
+            {
+              "id": 42,
+              "type": "mcq",
+              "q": "The sun always ___ in the morning.",
+              "choices": [
+                "rises",
+                "rise",
+                "rising",
+                "rose"
+              ],
+              "answer": "rises",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 43,
+              "type": "short",
+              "q": "'He teach English at school.'에서 틀린 동사를 바르게 고쳐 쓰시오.",
+              "answer": "teaches",
+              "explain": "ch로 끝나면 -es."
+            },
+            {
+              "id": 44,
+              "type": "mcq",
+              "q": "'그 강아지는 우유를 안 좋아한다.'의 올바른 영어는?",
+              "choices": [
+                "The dog doesn't like milk.",
+                "The dog don't like milk.",
+                "The dog isn't like milk.",
+                "The dog not likes milk."
+              ],
+              "answer": "The dog doesn't like milk.",
+              "explain": "3인칭 단수 부정은 doesn't."
+            },
+            {
+              "id": 45,
+              "type": "mcq",
+              "q": "다음 중 옳지 않은 것은?",
+              "choices": [
+                "She fixs cars.",
+                "She fixes cars.",
+                "He fixes cars.",
+                "They fix cars."
+              ],
+              "answer": "She fixs cars.",
+              "explain": "x로 끝나면 -es(fixes)."
+            },
+            {
+              "id": 46,
+              "type": "short",
+              "q": "'Does your father drinks coffee?'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "drink",
+              "explain": "Does 뒤에는 동사원형."
+            },
+            {
+              "id": 47,
+              "type": "mcq",
+              "q": "My grandmother ___ to church every Sunday.",
+              "choices": [
+                "goes",
+                "go",
+                "going",
+                "went"
+              ],
+              "answer": "goes",
+              "explain": "go의 3인칭 단수형은 goes."
+            },
+            {
+              "id": 48,
+              "type": "mcq",
+              "q": "다음 중 옳은 문장은?",
+              "choices": [
+                "He washes his hands before meals.",
+                "He washs his hands before meals.",
+                "He wash his hands before meals.",
+                "He washing his hands before meals."
+              ],
+              "answer": "He washes his hands before meals.",
+              "explain": "sh로 끝나면 -es."
+            },
+            {
+              "id": 49,
+              "type": "short",
+              "q": "'It don't matter to me.'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "doesn't",
+              "explain": "3인칭 단수 부정은 doesn't."
+            },
+            {
+              "id": 50,
+              "type": "mcq",
+              "q": "'너희 형은 기타를 치니?'의 올바른 영어는?",
+              "choices": [
+                "Does your brother play the guitar?",
+                "Do your brother play the guitar?",
+                "Is your brother play the guitar?",
+                "Your brother plays the guitar?"
+              ],
+              "answer": "Does your brother play the guitar?",
+              "explain": "3인칭 단수 의문문."
+            },
+            {
+              "id": 51,
+              "type": "mcq",
+              "q": "The clock in the hall ___ loudly.",
+              "choices": [
+                "ticks",
+                "tick",
+                "ticking",
+                "ticked"
+              ],
+              "answer": "ticks",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 52,
+              "type": "short",
+              "q": "'She don't have any pets.'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "doesn't",
+              "explain": "3인칭 단수 부정은 doesn't."
+            },
+            {
+              "id": 53,
+              "type": "mcq",
+              "q": "다음 중 3인칭 단수형이 잘못된 것은?",
+              "choices": [
+                "hurrys",
+                "carries",
+                "worries",
+                "studies"
+              ],
+              "answer": "hurrys",
+              "explain": "hurry는 hurries가 맞아요."
+            },
+            {
+              "id": 54,
+              "type": "mcq",
+              "q": "'우리 아빠는 매일 신문을 읽으신다.'의 올바른 영어는?",
+              "choices": [
+                "My dad reads the newspaper every day.",
+                "My dad read the newspaper every day.",
+                "My dad reading the newspaper every day.",
+                "My dad is read the newspaper every day."
+              ],
+              "answer": "My dad reads the newspaper every day.",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 55,
+              "type": "short",
+              "q": "'He fix the computer every time it breaks.'에서 틀린 동사를 바르게 고쳐 쓰시오.",
+              "answer": "fixes",
+              "explain": "x로 끝나면 -es."
+            },
+            {
+              "id": 56,
+              "type": "mcq",
+              "q": "다음 중 옳은 것은?",
+              "choices": [
+                "The baby cries a lot.",
+                "The baby crys a lot.",
+                "The baby crying a lot.",
+                "The baby cry a lot."
+              ],
+              "answer": "The baby cries a lot.",
+              "explain": "자음+y는 y를 i로 바꾸고 -es."
+            },
+            {
+              "id": 57,
+              "type": "mcq",
+              "q": "'그 새는 매일 아침 노래한다.'의 올바른 영어는?",
+              "choices": [
+                "The bird sings every morning.",
+                "The bird sing every morning.",
+                "The bird singing every morning.",
+                "The bird is sings every morning."
+              ],
+              "answer": "The bird sings every morning.",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 58,
+              "type": "short",
+              "q": "'Does she has a car?'에서 틀린 부분을 바르게 고쳐 쓰시오.",
+              "answer": "have",
+              "explain": "Does 뒤에는 동사원형(has가 아니라 have)."
+            },
+            {
+              "id": 59,
+              "type": "mcq",
+              "q": "다음 중 옳은 것은?",
+              "choices": [
+                "My cousin lives in Busan.",
+                "My cousin live in Busan.",
+                "My cousin living in Busan.",
+                "My cousin is live in Busan."
+              ],
+              "answer": "My cousin lives in Busan.",
+              "explain": "3인칭 단수 현재형."
+            },
+            {
+              "id": 60,
+              "type": "mcq",
+              "q": "He always ___ his promises.",
+              "choices": [
+                "keeps",
+                "keep",
+                "keeping",
+                "kept"
+              ],
+              "answer": "keeps",
+              "explain": "3인칭 단수 현재형."
             }
           ]
         },
